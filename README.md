@@ -31,6 +31,10 @@ You can also click the circles to view the public source code repositories. In m
 ## Motion Graphics (examples: After Effects, Blackmagic Fusion, Autodesk Flame)
 * [Natron](https://natrongithub.github.io/) [🟢](https://github.com/NatronGitHub/Natron) Support by improving the project!
 
+## Maps and Navigation (examples: Google Maps, Apple Maps, Waze)
+* [OpenStreetMap](https://www.openstreetmap.org/)<sup>[27]</sup> [🟢](https://github.com/openstreetmap/) Support here: [Donate to OpenStreetMap Foundation](https://supporting.openstreetmap.org/donate/)
+* [Organic Maps](https://organicmaps.app/) [🟢](https://github.com/organicmaps/organicmaps) Support here: [Donate to Organic Maps](https://opencollective.com/organicmaps)<sup>[28]</sup>
+
 ## Digital Painting (examples: Clip Studio Paint, PhotoShop, Manga Studio, Procreate)
 * [Krita](https://krita.org/en/) [🟢](https://invent.kde.org/graphics/krita) Support here: [Krita development fund](https://fund.krita.org/)
 * [Libresprite](https://libresprite.github.io/#!/)<sup>[21]</sup> [🟢](https://github.com/LibreSprite/LibreSprite) Support here: [TO BE ADDED]
@@ -290,3 +294,7 @@ I use **Firefox** to browse the web and ~~Discord~~ to talk with friends, but I 
 [25] It looks like they [had a donations page](https://gogs.io/donate), but they can no longer accept donations for some reason.
 
 [26] Hasn't seen any development in 3 years.
+
+[27] OSM is not, in itself, a navigation tool, but rather a collaborative and open map/geographical database that powers all non-corporate navigation apps.
+
+[28] [Other donation methods are available](https://organicmaps.app/donate/), but I opted for Open Collective for simplicity.
