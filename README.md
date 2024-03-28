@@ -82,6 +82,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
+* [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Etherpad](https://etherpad.org/) [🟢](https://github.com/ether/etherpad-lite) Support here: [Donate to Etherpad](https://github.com/sponsors/ether)
 
 ## Productivity & Task Management (examples: Notion, Trello, Asana)
