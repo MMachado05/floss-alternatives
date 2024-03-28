@@ -101,6 +101,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Internet Browsers (examples: Google Chrome, Safari, Microsoft Edge, Internet Explorer, Opera/Opera GX, Vivaldi<sup>[15]</sup>)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) [🟡](https://searchfox.org/mozilla-central/source)<sup>[14]</sup> Support here: [Donate to Mozilla Foundation](https://foundation.mozilla.org/en/?form=eoy-banner-fdn)
+* [Floorp](https://floorp.app/en/) [🟢](https://github.com/Floorp-Projects/Floorp/?tab=readme-ov-file) Support here: [Donate to Ablaze](https://github.com/sponsors/Ablaze-MIRAI)
 * [Mullvad](https://mullvad.net/en/browser) [🟢](https://github.com/mullvad/mullvad-browser) Support by improving the project!
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
 
