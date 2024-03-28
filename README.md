@@ -95,6 +95,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Jitsi](https://meet.jit.si/) [🔴](https://github.com/jitsi/jitsi-meet)
 
 ## Email Clients (examples: Outlook, Apple Mail)
+* [Betterbird](https://www.betterbird.eu/index.html) [🟢](https://github.com/Betterbird/thunderbird-patches) Support here: [Donate to Betterbird](https://www.betterbird.eu/donate/index.html)
 * [Thunderbird](https://www.thunderbird.net/en-US/) [🟢](https://hg.mozilla.org/comm-central/) Support here: [Donate to Thunderbird](https://www.thunderbird.net/en-US/donate/)
 
 ## Email Providers<sup>[16]</sup> (examples: Outlook, GMail, Yahoo)
