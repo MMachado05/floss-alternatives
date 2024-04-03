@@ -91,6 +91,10 @@ You can also click the circles to view the public source code repositories. In m
 * [FocalBoard](https://www.focalboard.com/) [🔴](https://github.com/mattermost/focalboard)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
 
+## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
+* [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
+* [Jubler](https://www.jubler.org/index.html) [🟢](https://github.com/teras/Jubler) Support here: [Donate to Jubler](https://www.jubler.org/donations.html)
+
 ## Video Conferencing (examples: Zoom, Google Meet, Microsoft Teams)
 * [Jitsi](https://meet.jit.si/) [🔴](https://github.com/jitsi/jitsi-meet)
 
@@ -239,6 +243,7 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * 💔 Aseprite (digital drawing [pixelart])
 * 💀 Simplenotes (note-taking)
 * 💀 NoteKit (note-taking)
+* 💀 Aegisub (subtitle editing)
 
 ***
 
