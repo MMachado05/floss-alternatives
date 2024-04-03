@@ -200,6 +200,10 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * [PeerTube](https://joinpeertube.org/en_US) [🟢](https://github.com/Chocobozzz/PeerTube) Support here: [Donate to PeerTube](https://support.joinpeertube.org/en/)
 * [GrayJay](https://grayjay.app/) (front-end only) [🟡](https://gitlab.futo.org/videostreaming/grayjay)<sup>[2]</sup>
 
+## Git Clients (examples: GitKraken)
+* [GitHub Desktop](https://desktop.github.com/) [🔴](https://github.com/desktop/desktop)
+* [GitButler](https://gitbutler.com/) [🔴]
+
 ## Social Media (examples: FaceBook/Meta, Twitter/X, Reddit)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
 * [Discuit](https://discuit.net/) [🟢](https://github.com/discuitnet/discuit) Support by improving the project!
