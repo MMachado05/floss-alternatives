@@ -98,6 +98,10 @@ You can also click the circles to view the public source code repositories. In m
 ## Video Conferencing (examples: Zoom, Google Meet, Microsoft Teams)
 * [Jitsi](https://meet.jit.si/) [🔴](https://github.com/jitsi/jitsi-meet)
 
+## Graphing calculators (examples: Desmos, Matlab)
+* [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
+* [Plots](https://apps.gnome.org/Plots/) TODO
+
 ## Email Clients (examples: Outlook, Apple Mail)
 * [Betterbird](https://www.betterbird.eu/index.html) [🟢](https://github.com/Betterbird/thunderbird-patches) Support here: [Donate to Betterbird](https://www.betterbird.eu/donate/index.html)
 * [Thunderbird](https://www.thunderbird.net/en-US/) [🟢](https://hg.mozilla.org/comm-central/) Support here: [Donate to Thunderbird](https://www.thunderbird.net/en-US/donate/)
@@ -227,7 +231,6 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 
 ***
 ## Programs I have yet to find viable open-source options for (I urge those capable of doing so to start a project!):
-* Graphing calculators (examples: Desmos, Matlab)
 * Dating apps (Tinder, Bumble, Boo, Hinge, eHarmony)
 
 ***
