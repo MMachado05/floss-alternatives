@@ -63,7 +63,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Mullvad VPN](https://mullvad.net/en/vpn) [🔴](https://github.com/mullvad/mullvadvpn-app)
 * [ProtonVPN](https://protonvpn.com/) [🔴](https://github.com/ProtonVPN)
 
-## Music/Audio Development (examples: FL Studio, Ableton, Bitwig, Renoise)
+## Music/Audio Development (examples: FL Studio, Ableton, Bitwig, Renoise, Reaper)
 * [Audacity](https://www.audacityteam.org/)  [🟢](https://github.com/audacity/audacity) Support by improving the project!
 * [Tenacity](https://tenacityaudio.org/) [🟢](https://codeberg.org/tenacityteam/tenacity) Support by improving the project!
 
