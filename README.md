@@ -125,6 +125,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
+* [Piwigo](https://piwigo.org/) [🟢](https://github.com/Piwigo) Support here: [Donate to Piwigo](https://piwigo.org/get-involved#donate)
 
 ## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
