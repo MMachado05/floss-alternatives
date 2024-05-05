@@ -123,6 +123,9 @@ You can also click the circles to view the public source code repositories. In m
 ## DJ Software/Music Mixing (examples: Traktor, Serato, VirtualDJ, Rekordbox)
 * [Mixxx](https://mixxx.org/) [🟢](https://github.com/mixxxdj/mixxx) Support here: [Donate to Mixxx](https://opencollective.com/mixxx)
 
+## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
+* [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
+
 ## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
 
