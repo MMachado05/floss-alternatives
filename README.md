@@ -34,6 +34,7 @@ You can also click the circles to view the public source code repositories. In m
 ## Maps and Navigation (examples: Google Maps, Apple Maps, Waze)
 * [OpenStreetMap](https://www.openstreetmap.org/)<sup>[27]</sup> [🟢](https://github.com/openstreetmap/) Support here: [Donate to OpenStreetMap Foundation](https://supporting.openstreetmap.org/donate/)
 * [Organic Maps](https://organicmaps.app/) [🟢](https://github.com/organicmaps/organicmaps) Support here: [Donate to Organic Maps](https://opencollective.com/organicmaps)<sup>[28]</sup>
+* [OsmAnd](https://osmand.net/) [🔴](https://github.com/osmandapp/)
 
 ## Digital Painting (examples: Clip Studio Paint, PhotoShop, Manga Studio, Procreate)
 * [Krita](https://krita.org/en/) [🟢](https://invent.kde.org/graphics/krita) Support here: [Krita development fund](https://fund.krita.org/)
@@ -58,6 +59,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Signal](https://signal.org/) [🟢](https://github.com/signalapp) Support here: [Donate to Signal](https://signal.org/donate/)
 * [Berty](https://berty.tech/messenger) [🟢](https://github.com/berty/berty) Support here: [Donate to Berty](https://github.com/sponsors/berty)
 * [Telegram](https://telegram.org/) [🟡](https://telegram.org/apps#source-code)<sup>[7]</sup>
+* [Quik SMS (ANDROID ONLY)](https://f-droid.org/en/packages/dev.octoshrimpy.quik/) [🟢](https://github.com/octoshrimpy/quik) Support here: [Donate to primary dev](https://liberapay.com/octoshrimpy)
 
 ## VPN Services, or Virtual Private Networks<sup>[17]</sup> (examples: NordVPN, ExpressVPN)
 * [Mullvad VPN](https://mullvad.net/en/vpn) [🔴](https://github.com/mullvad/mullvadvpn-app)
@@ -114,8 +116,10 @@ You can also click the circles to view the public source code repositories. In m
 ## Internet Browsers (examples: Google Chrome, Safari, Microsoft Edge, Internet Explorer, Opera/Opera GX, Vivaldi<sup>[15]</sup>)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) [🟡](https://searchfox.org/mozilla-central/source)<sup>[14]</sup> Support here: [Donate to Mozilla Foundation](https://foundation.mozilla.org/en/?form=eoy-banner-fdn)
 * [Floorp](https://floorp.app/en/) [🟢](https://github.com/Floorp-Projects/Floorp/?tab=readme-ov-file) Support here: [Donate to Ablaze](https://github.com/sponsors/Ablaze-MIRAI)
+* [LibreWolf](https://librewolf.net/) [🟢](https://codeberg.org/librewolf) Support by improving the project!
 * [Mullvad](https://mullvad.net/en/browser) [🟢](https://github.com/mullvad/mullvad-browser) Support by improving the project!
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
+* [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [🟢](https://github.com/Divested-Mobile/Mull-Fenix) Support by improving the project!
 
 ## Artificial Intelligence (AI)/LLMs (examples: ChatGPT, Grok, Gemini, Bard, Llama)
 * [Mixtral 8x7b](https://mistral.ai/news/mixtral-of-experts/) 🟡<sup>[18]</sup>
@@ -126,6 +130,8 @@ You can also click the circles to view the public source code repositories. In m
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
 * [Piwigo](https://piwigo.org/) [🟢](https://github.com/Piwigo) Support here: [Donate to Piwigo](https://piwigo.org/get-involved#donate)
+* [Aves Libre (ANDROID ONLY)](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pli=1) [🟢](https://github.com/deckerst/aves) Support here: [Donate to primary dev](https://liberapay.com/deckerst)
+* [Fossify Gallery (ANDROID ONLY)](https://f-droid.org/en/packages/org.fossify.gallery/) [🟢](https://github.com/FossifyOrg/Gallery) Support here: [Donate to primary dev](https://www.patreon.com/naveen3singh)
 
 ## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
@@ -139,6 +145,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
 * [Rnote](https://rnote.flxzt.net/)<sup>[20]</sup> [🟢](https://github.com/flxzt/rnote) Support here: [Donate to primary dev](https://github.com/sponsors/flxzt)
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
+* [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
 * [Xournal++](https://xournalpp.github.io/) [🟢](https://github.com/xournalpp/xournalpp/) Support by improving the project!
 * [Logseq](https://logseq.com/) [🟢](https://github.com/logseq/logseq) Support here: [Donate to Logseq](https://opencollective.com/logseq?ref=blog.logseq.com)
 
@@ -208,7 +215,9 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 
 ## Online Video Sharing, Watching, etc (examples: YouTube, BitChute)
 * [PeerTube](https://joinpeertube.org/en_US) [🟢](https://github.com/Chocobozzz/PeerTube) Support here: [Donate to PeerTube](https://support.joinpeertube.org/en/)
-* [GrayJay](https://grayjay.app/) (front-end only) [🟡](https://gitlab.futo.org/videostreaming/grayjay)<sup>[2]</sup>
+* [FreeTube (YT client)](https://freetubeapp.io/) [🟢](https://github.com/FreeTubeApp/FreeTube) Support here: [Donate to FreeTube](https://liberapay.com/FreeTube)
+* [NewPipe (YT client, ANDROID ONLY)](https://newpipe.net/) [🟢](https://github.com/TeamNewPipe/NewPipe/) Support here: [Donate to NewPipe](https://liberapay.com/TeamNewPipe/)
+* [LibreTube (YT client, ANDROID ONLY)](https://libretube.dev/) [🟢](https://github.com/libre-tube/LibreTube) Support here: [Donate to primary dev](https://liberapay.com/Bnyro)
 
 ## Git Clients (examples: GitKraken)
 * [GitHub Desktop](https://desktop.github.com/) [🔴](https://github.com/desktop/desktop)
@@ -265,8 +274,6 @@ I use **Firefox** to browse the web and ~~Discord~~ to talk with friends, but I 
 
 ***
 [1] Seen by some as an abandoned project.
-
-[2] Source-available, and charges a one-time fee. Spearheaded by Louis Rossman, a big proponent in right-to-repair, F/LOSS, etc.
 
 [3] Anki *is* fully open-source, however they legitimize their operations by creating the product out of a registered business. Thus, donations have been decided to be too logistically complex to justify setting up. If you want to support Anki monetarily, you can do so by purchasing [AnkiMobile Flashcards](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387), which basically just serves as a way to donate $25 (DO NOT ACCIDENTALLY GET THE ADVERTISED ANKIPRO APP, this is NOT the app created by Anki developers to my knowledge.)
 
