@@ -127,6 +127,9 @@ You can also click the circles to view the public source code repositories. In m
 ## DJ Software/Music Mixing (examples: Traktor, Serato, VirtualDJ, Rekordbox)
 * [Mixxx](https://mixxx.org/) [🟢](https://github.com/mixxxdj/mixxx) Support here: [Donate to Mixxx](https://opencollective.com/mixxx)
 
+## Multi-Factor Authentication (examples: Authy, Google Authenticator, Microsoft Authenticator)
+* [Bitwarden Authenticator](https://bitwarden.com/help/bitwarden-authenticator/) [🔴](https://github.com/bitwarden/authenticator-android) ([iOS](https://github.com/bitwarden/authenticator-ios))
+
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
 * [Piwigo](https://piwigo.org/) [🟢](https://github.com/Piwigo) Support here: [Donate to Piwigo](https://piwigo.org/get-involved#donate)
