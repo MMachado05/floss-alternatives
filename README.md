@@ -178,6 +178,9 @@ You can also click the circles to view the public source code repositories. In m
 * [OpenSCAD](https://openscad.org/) [🟢](https://github.com/openscad/openscad/) Support here: [Donate to OpenSCAD](https://opencollective.com/openscad/donate?interval=oneTime&amount=20&name=&legalName=&email=)
 * [BRL-CAD](https://brlcad.org/) [🟢](https://github.com/BRL-CAD/brlcad) Support by improving the project!
 
+## Bibliography Software/Reference Management (examples: EasyBib, MyBib)
+* [Zotero (also try out ZoteroBib)](https://www.zotero.org/) [🟢](https://github.com/zotero/zotero) Support by improving the project! (or by buying storage)
+
 ## Diagram and Flowchart Creation/Digital Whiteboards (examples: Lucidchart)
 * [Excalidraw](https://excalidraw.com/) [🔴](https://github.com/excalidraw/excalidraw)
 * [Flowchart.fun](https://flowchart.fun/) [🔴](https://github.com/tone-row/flowchart-fun)
