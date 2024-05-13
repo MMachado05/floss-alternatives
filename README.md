@@ -155,6 +155,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Remote Desktop Access (examples: TeamViewer, Centrix)
 * [Apache Guacamole](https://guacamole.apache.org/) [🟢](https://github.com/apache/guacamole-server) Support here: [Donate to The Apache Software Foundation](https://www.apache.org/foundation/individual-supporters)
 
+## Group Scheduling (examples: when2meet, LettuceMeet)
+* [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
+
 ## Game Engines (examples: Unity, Unreal Engine)
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
