@@ -162,6 +162,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
 * [Flax Engine](https://flaxengine.com/) [🔴](https://github.com/FlaxEngine/FlaxEngine)<sup>[24]</sup>
+* [Bevy](https://bevyengine.org/) [🟢](https://github.com/bevyengine/bevy) Support here: [Donate to Bevy Foundation](https://bevyengine.org/donate/)
 
 ## 3D Modeling and Animation (examples: Autodesk Maya, Womp)
 * [Blender](https://www.blender.org/) [🟢](https://github.com/blender/blender) Support here: [Blender Development Fund](https://fund.blender.org/?utm_medium=www-nav)
