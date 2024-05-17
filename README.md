@@ -173,6 +173,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Remote Desktop Access (examples: TeamViewer, Centrix)
 * [Apache Guacamole](https://guacamole.apache.org/) [🟢](https://github.com/apache/guacamole-server) Support here: [Donate to The Apache Software Foundation](https://www.apache.org/foundation/individual-supporters)
+* [RustDesk](https://rustdesk.com/) [🔴](https://github.com/rustdesk/rustdesk)
 
 ## Group Scheduling (examples: when2meet, LettuceMeet)
 * [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
@@ -286,7 +287,6 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 
 ### Projects:
 * 💀 Laverna (design)
-* 😶‍🌫️ Rustdesk (remote desktop viewing)
 * 💀 Alovoa (dating)
 * 💀 Atom (code editing)
 * 💀 MyPaint (digital painting)
