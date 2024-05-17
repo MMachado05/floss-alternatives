@@ -111,6 +111,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
 * [Plots](https://apps.gnome.org/Plots/) TODO
 
+## Invoicing (examples: Wave)
+* [Invoice Ninja](https://invoiceninja.com/) [🔴](https://github.com/invoiceninja/invoiceninja)
+
 ## Forum Hosting (examples: vBulletin)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
 
