@@ -114,6 +114,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Forum Hosting (examples: vBulletin)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
 
+## Music Streaming (examples: Spotify, Apple Music)
+* [Navidrome](https://www.navidrome.org/) [🟢](https://github.com/navidrome/navidrome/) Support here: [Donate to primary dev](https://liberapay.com/deluan)
+
 ## Email Clients (examples: Outlook, Apple Mail, Blue Mail)
 * [Betterbird](https://www.betterbird.eu/index.html) [🟢](https://github.com/Betterbird/thunderbird-patches) Support here: [Donate to Betterbird](https://www.betterbird.eu/donate/index.html)
 * [Thunderbird](https://www.thunderbird.net/en-US/) [🟢](https://hg.mozilla.org/comm-central/) Support here: [Donate to Thunderbird](https://www.thunderbird.net/en-US/donate/)
