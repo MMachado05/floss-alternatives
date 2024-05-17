@@ -83,6 +83,9 @@ You can also click the circles to view the public source code repositories. In m
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Collabora Online Development Edition](https://www.collaboraoffice.com/code/) [🔴](https://github.com/CollaboraOnline)
 
+## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
+* Stirling PDF (TODO)
+
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
