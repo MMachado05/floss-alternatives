@@ -93,6 +93,9 @@ You can also click the circles to view the public source code repositories. In m
 * [FocalBoard](https://www.focalboard.com/) [🔴](https://github.com/mattermost/focalboard)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
 
+## Mesh VPN (examples: Tailscale, ZeroTier)
+* NetBird (need to add info later)
+
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Jubler](https://www.jubler.org/index.html) [🟢](https://github.com/teras/Jubler) Support here: [Donate to Jubler](https://www.jubler.org/donations.html)
