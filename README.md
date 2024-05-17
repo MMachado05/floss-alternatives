@@ -111,6 +111,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
 * [Plots](https://apps.gnome.org/Plots/) TODO
 
+## Forum Hosting (examples: vBulletin)
+* [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
+
 ## Email Clients (examples: Outlook, Apple Mail, Blue Mail)
 * [Betterbird](https://www.betterbird.eu/index.html) [🟢](https://github.com/Betterbird/thunderbird-patches) Support here: [Donate to Betterbird](https://www.betterbird.eu/donate/index.html)
 * [Thunderbird](https://www.thunderbird.net/en-US/) [🟢](https://hg.mozilla.org/comm-central/) Support here: [Donate to Thunderbird](https://www.thunderbird.net/en-US/donate/)
