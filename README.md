@@ -51,6 +51,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Spacebar](https://spacebar.chat/)<sup>[9]</sup> [🟢](https://github.com/spacebarchat) Support here: [Donate to Spacebar](https://opencollective.com/spacebar)
 * [Element](https://element.io/) [🔴](https://github.com/vector-im)
 * [Mattermost](https://mattermost.com/) [🔴](https://github.com/mattermost/mattermost)
+* [RocketChat](https://www.rocket.chat/) [🔴](https://github.com/RocketChat/Rocket.Chat)
 
 ## Home Automation and Remote Control (examples: Alexa, Google Home)
 * [Home Assistant](https://www.home-assistant.io/) [🟡](https://github.com/home-assistant)<sup>[12]</sup>
