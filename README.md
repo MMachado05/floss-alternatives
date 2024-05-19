@@ -152,6 +152,12 @@ You can also click the circles to view the public source code repositories. In m
 ## Multi-Factor Authentication (examples: Authy, Google Authenticator, Microsoft Authenticator, Duo)
 * [Bitwarden Authenticator](https://bitwarden.com/help/bitwarden-authenticator/) [🔴](https://github.com/bitwarden/authenticator-android) ([iOS](https://github.com/bitwarden/authenticator-ios))
 
+## Workout trackers (examples: Hevy)
+* [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
+
+## Nutrition trackers (examples: MyFitnessPal, MyNetDiary)
+* [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
+
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
 * [Piwigo](https://piwigo.org/) [🟢](https://github.com/Piwigo) Support here: [Donate to Piwigo](https://piwigo.org/get-involved#donate)
