@@ -3,6 +3,8 @@
 
 ***
 Note to self: [this](https://opensourcesoftwaredirectory.com/about) seems like a cool place to collect more apps!
+
+Also: eventually, I should separate out the projects that only provide front-ends for other projects, like Grayjay and the like. Since these do, honestly, provide a very different product than things like PeerTube.
 ***
 
 This gist serves as a place to find free & libre open-source alternatives to various proprietary softwares. I'll be organizing it such that anyone looking for a FLOSS alternative to some piece of software they use should be relatively easy to find.
