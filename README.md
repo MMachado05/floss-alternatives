@@ -242,8 +242,13 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [VokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) [🟢](https://github.com/vkohaupt/vokoscreenNG) Support here: [Donate to VokoscreeNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen-donate.html)
 * [Spectacle](https://apps.kde.org/spectacle/)<sup>[8]</sup> [🟢](https://invent.kde.org/graphics/spectacle) Support here: [Donate to KDE](https://kde.org/community/donations/)
 
-## Website Builders (examples: Webflow, Squarespace, Weebly, Wix, Readymag, Cargo Collective)
+## Website Builders/Content Management Systems (examples: Webflow, Squarespace, Weebly, Wix, Readymag, Cargo Collective)
+Todo: should probably look into this category and clean stuff up based on use case.
+Specifically, I should probably look into what can be self-hosted and what can't be. Maybe something for the website?
 * [Silex](https://www.silex.me/) [🟢](https://github.com/silexlabs/Silex/) Support here: [Donate to Silex Labs](https://opencollective.com/silex)
+* [WordPress](https://wordpress.com/) [🔴](https://core.trac.wordpress.org/browser/)
+* [Ghost](https://ghost.org/) [🔴](https://github.com/TryGhost/Ghost)
+* [TinaCMS](https://tina.io/) [🔴](https://github.com/tinacms/tinacms)
 
 ## Desktop Operating Systems (examples: MacOS, Windows 7/8/10/11)
 Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Word to the wise; the desktop environment will matter a lot more to the layman than anything else (you're looking for keywords like "Cinnamon," "KDE," "GNOME," "Xfce," "Mate," and a few others.)
