@@ -105,6 +105,7 @@ You can also click the circles to view the public source code repositories. In m
 * NetBird (need to add info later)
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
+* Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Jubler](https://www.jubler.org/index.html) [🟢](https://github.com/teras/Jubler) Support here: [Donate to Jubler](https://www.jubler.org/donations.html)
 
@@ -333,7 +334,6 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * 💔 Aseprite (digital drawing [pixelart])
 * 💀 Simplenotes (note-taking)
 * 💀 NoteKit (note-taking)
-* 💀 Aegisub (subtitle editing)
 
 ***
 
@@ -394,3 +394,5 @@ I use **Firefox** to browse the web and ~~Discord~~ to talk with friends, but I 
 [27] OSM is not, in itself, a navigation tool, but rather a collaborative and open map/geographical database that powers all non-corporate navigation apps.
 
 [28] [Other donation methods are available](https://organicmaps.app/donate/), but I opted for Open Collective for simplicity.
+
+[30] This is *not* the original Aegisub by TypesettingTools. That one hasn't seen any updates in nearly a decade. However, there seems to be a tight community around this fork, and the software is generally good, so I'm listing it here despite it's "unofficial" nature. Downloads are available from the GitHub releases.
