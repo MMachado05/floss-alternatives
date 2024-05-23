@@ -188,6 +188,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
 * [Xournal++](https://xournalpp.github.io/) [🟢](https://github.com/xournalpp/xournalpp/) Support by improving the project!
 * [Logseq](https://logseq.com/) [🟢](https://github.com/logseq/logseq) Support here: [Donate to Logseq](https://opencollective.com/logseq?ref=blog.logseq.com)
+* [Marknote](https://apps.kde.org/marknote/) [🟢](https://invent.kde.org/office/marknote) Support here: [Donate to KDE](https://kde.org/community/donations/)
 
 ## Remote Desktop Access (examples: TeamViewer, Centrix)
 * [Apache Guacamole](https://guacamole.apache.org/) [🟢](https://github.com/apache/guacamole-server) Support here: [Donate to The Apache Software Foundation](https://www.apache.org/foundation/individual-supporters)
