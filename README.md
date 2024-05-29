@@ -30,6 +30,8 @@ You can also click the circles to view the public source code repositories. In m
 ## Video Editing (examples: Premiere Pro, DaVinci Resolve, VEGAS Pro)
 * [Kdenlive](https://kdenlive.org/en/) [🟢](https://invent.kde.org/multimedia/kdenlive) Support here: [Kdenlive development fund](https://kdenlive.org/en/fund/)
 * [Shotcut](https://shotcut.org/) [🟢](https://github.com/mltframework/shotcut) Support by improving the project!
+* [Flowblade](https://jliljebl.github.io/flowblade/) [🟢](https://github.com/jliljebl/flowblade) Support by improving the project!
+* [OpenShot](https://www.openshot.org/)
 * [LosslessCut](https://mifi.no/losslesscut/) [🟢](https://github.com/mifi/lossless-cut) Support here: [Donate to primary dev](https://github.com/sponsors/mifi)
 
 ## Motion Graphics (examples: After Effects, Blackmagic Fusion, Autodesk Flame)
