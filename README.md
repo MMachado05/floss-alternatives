@@ -64,6 +64,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Signal](https://signal.org/) [🟢](https://github.com/signalapp) Support here: [Donate to Signal](https://signal.org/donate/)
 * [Session](https://getsession.org/) [🟢](https://github.com/oxen-io) Support here: [Donate to Oxen](https://donorbox.org/optf-donation)
 * [Berty](https://berty.tech/messenger) [🟢](https://github.com/berty/berty) Support here: [Donate to Berty](https://github.com/sponsors/berty)
+* [Briar](https://briarproject.org/) [🟢](https://code.briarproject.org/briar) Support here: [Donate to Briar](https://liberapay.com/Briar/donate)
 * [Telegram](https://telegram.org/) [🟡](https://telegram.org/apps#source-code)<sup>[7]</sup>
 * [Quik SMS (ANDROID ONLY)](https://f-droid.org/en/packages/dev.octoshrimpy.quik/) [🟢](https://github.com/octoshrimpy/quik) Support here: [Donate to primary dev](https://liberapay.com/octoshrimpy)
 
