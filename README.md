@@ -154,6 +154,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Mullvad](https://mullvad.net/en/browser) [🟢](https://github.com/mullvad/mullvad-browser) Support by improving the project!
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
 * [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [🟢](https://github.com/Divested-Mobile/Mull-Fenix) Support by improving the project!
+* [Servo](https://servo.org/) [🟢](https://github.com/servo/servo) Support here: [Donate to Servo](https://github.com/sponsors/servo)
 
 ## Artificial Intelligence (AI)/LLMs (examples: ChatGPT, Grok, Gemini, Bard, Llama)
 * [Mixtral 8x7b](https://mistral.ai/news/mixtral-of-experts/) 🟡<sup>[18]</sup>
