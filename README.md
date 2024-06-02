@@ -42,7 +42,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Organic Maps](https://organicmaps.app/) [🟢](https://github.com/organicmaps/organicmaps) Support here: [Donate to Organic Maps](https://opencollective.com/organicmaps)<sup>[28]</sup>
 * [OsmAnd](https://osmand.net/) [🔴](https://github.com/osmandapp/)
 
-## Digital Painting (examples: Clip Studio Paint, Adobe PhotoShop, Adobe Fresco, Manga Studio, Procreate)
+## Digital Painting (examples: Clip Studio Paint, Adobe PhotoShop, Adobe Fresco, Manga Studio, Procreate, FireAlpaca)
 * [Krita](https://krita.org/en/) [🟢](https://invent.kde.org/graphics/krita) Support here: [Krita development fund](https://fund.krita.org/)
 * [Libresprite](https://libresprite.github.io/#!/)<sup>[21]</sup> [🟢](https://github.com/LibreSprite/LibreSprite) Support here: [TO BE ADDED]
 * [Tiled](https://www.mapeditor.org/)<sup>[22]</sup> [🟢](https://github.com/mapeditor/tiled) Support here: [Donate to Tiled](https://opencollective.com/tiled)
