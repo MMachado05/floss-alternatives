@@ -188,6 +188,7 @@ You can also click the circles to view the public source code repositories. In m
 Todo: separate this into a simple note-taking section, and a pdf-annotating section. I can duplicate the proprietary ones, but it'd be better to organize the alternatives based on the specific use case they try to target.
 * [Joplin](https://joplinapp.org/) [🟢](https://github.com/laurent22/joplin) Support here: [Donate to Joplin](https://joplinapp.org/donate/)
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
+* [Simplenote](https://simplenote.com/) [🔴](https://github.com/Automattic/simplenote-electron)
 * [Rnote](https://rnote.flxzt.net/) [🟢](https://github.com/flxzt/rnote) Support here: [Donate to primary dev](https://github.com/sponsors/flxzt)
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
@@ -338,7 +339,6 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * 💀 MyPaint (digital painting)
 * 😶‍🌫️ Standardnotes (note-taking)
 * 💔 Aseprite (digital drawing [pixelart])
-* 💀 Simplenotes (note-taking)
 * 💀 NoteKit (note-taking)
 
 ***
