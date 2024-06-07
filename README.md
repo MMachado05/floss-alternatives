@@ -166,6 +166,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Bitwarden Authenticator](https://bitwarden.com/help/bitwarden-authenticator/) [🔴](https://github.com/bitwarden/authenticator-android) ([iOS](https://github.com/bitwarden/authenticator-ios))
 * [Ente Auth](https://ente.io/blog/auth/) [🔴](https://github.com/ente-io/ente/tree/main/auth)
 
+## Audio Transcription (examples: Sonix)
+* [Vibe](https://thewh1teagle.github.io/vibe/) [🟢](https://github.com/thewh1teagle/vibe) Support here: [Donate to primary dev](https://github.com/sponsors/thewh1teagle)
+
 ## Workout trackers (examples: Hevy)
 * [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
 
