@@ -108,6 +108,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
 
+## Budgeting (examples: NerdWallet, EveryDollar)
+* [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
+
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
