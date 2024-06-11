@@ -146,6 +146,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Email Providers<sup>[16]</sup> (examples: Outlook, GMail, Yahoo)
 * [ProtonMail](https://proton.me/mail) [🔴](https://github.com/ProtonMail)
+* [Tuta](https://tuta.com/) [🔴](https://github.com/tutao/tutanota)
 
 ## Simple File Hosting (examples: Imgur, Pastebin)
 * [Picsur](https://picsur.org/) [🟢](https://github.com/CaramelFur/Picsur) Support here: [Donate to primary dev](https://github.com/sponsors/CaramelFur)
