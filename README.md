@@ -225,6 +225,9 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Blender](https://www.blender.org/) [🟢](https://github.com/blender/blender) Support here: [Blender Development Fund](https://fund.blender.org/?utm_medium=www-nav)
 * [Blockbench](https://www.blockbench.net/) [🟢](https://github.com/JannisX11/blockbench) Support here: [Donate to Blockbench](https://www.blockbench.net/donate/)
 
+## Digital Time Tracking (examples: RescueTime, Clockify, Qbserve)
+* [ActivityWatch](https://activitywatch.net/) [🟢](https://github.com/ActivityWatch/activitywatch) Support here: [Donate to ActivityWatch](https://liberapay.com/ActivityWatch/)
+
 ## Music Notation/Engraving (examples: Sibelius, Finale, Dorico)
 * [MuseScore](https://musescore.org/en) [🟢](https://github.com/musescore/MuseScore) Support by improving the project!
 
