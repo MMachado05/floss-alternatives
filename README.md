@@ -143,6 +143,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Thunderbird](https://www.thunderbird.net/en-US/) [🟢](https://hg.mozilla.org/comm-central/) Support here: [Donate to Thunderbird](https://www.thunderbird.net/en-US/donate/)
 * [Evolution](https://flathub.org/apps/org.gnome.Evolution) [🟢](https://gitlab.gnome.org/GNOME/evolution) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 * [KMail](https://apps.kde.org/kmail2/) [🟢](https://invent.kde.org/pim/kmail) Support here: [Donate to KDE](https://kde.org/community/donations/)
+* [Geary](https://wiki.gnome.org/Apps/Geary) [🟢](https://gitlab.gnome.org/GNOME/geary) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 
 ## Email Providers<sup>[16]</sup> (examples: Outlook, GMail, Yahoo)
 * [ProtonMail](https://proton.me/mail) [🔴](https://github.com/ProtonMail)
