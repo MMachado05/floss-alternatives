@@ -320,6 +320,8 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 
 ## Social Media (examples: FaceBook/Meta, Twitter/X, Reddit)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
+* [Misskey](https://misskey-hub.net/en/) [🟢](https://github.com/misskey-dev/misskey-hub-next) Support here: [Donate to primary dev](https://www.patreon.com/syuilo)
+* [Pleroma](https://pleroma.social/) [🟢](https://git.pleroma.social/pleroma/) Support here: [Doante to Pleroma Dev](https://liberapay.com/Pleroma-euro/)
 * [Discuit](https://discuit.net/) [🟢](https://github.com/discuitnet/discuit) Support by improving the project!
 * [Lemmy](https://join-lemmy.org/) [🟢](https://github.com/LemmyNet/lemmy) Support here: [Donate to Lemmy](https://join-lemmy.org/donate)
 
