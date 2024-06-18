@@ -138,6 +138,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
 
 ## Music Streaming (examples: Spotify, Apple Music)
+* [Spotube](https://spotube.krtirtho.dev/) [🟢](https://github.com/KRTirtho/spotube?referrer=spotube.krtirtho.dev) Support here: [Donate to Spotube](https://opencollective.com/spotube#category-CONTRIBUTE)
 * [Navidrome](https://www.navidrome.org/) [🟢](https://github.com/navidrome/navidrome/) Support here: [Donate to primary dev](https://liberapay.com/deluan)
 
 ## Email Clients (examples: Outlook, Apple Mail, Blue Mail)
