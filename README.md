@@ -316,7 +316,7 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 
 ## Git Clients (examples: GitKraken)
 * [GitHub Desktop](https://desktop.github.com/) [🔴](https://github.com/desktop/desktop)
-* [GitButler](https://gitbutler.com/) [🔴]
+* [GitButler](https://gitbutler.com/) [🔴](https://github.com/gitbutlerapp/gitbutler)
 
 ## Social Media (examples: FaceBook/Meta, Twitter/X, Reddit)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
