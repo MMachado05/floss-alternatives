@@ -111,7 +111,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
-* [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support by improving the project!
+* [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
