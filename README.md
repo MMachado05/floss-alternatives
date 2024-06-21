@@ -1,4 +1,3 @@
-
 # Opening software back up to the people, one install at a time!
 
 ***
@@ -224,6 +223,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
 * [Flax Engine](https://flaxengine.com/) [🔴](https://github.com/FlaxEngine/FlaxEngine)<sup>[24]</sup>
 * [Bevy](https://bevyengine.org/) [🟢](https://github.com/bevyengine/bevy) Support here: [Donate to Bevy Foundation](https://bevyengine.org/donate/)
+* [Defold](https://defold.com/) [🟢](https://github.com/defold/defold) Support here: [Donate to the Defold Foundation](https://github.com/sponsors/defold)
 
 ## 3D Modeling and Animation (examples: Autodesk Maya, Womp)
 * [Blender](https://www.blender.org/) [🟢](https://github.com/blender/blender) Support here: [Blender Development Fund](https://fund.blender.org/?utm_medium=www-nav)
