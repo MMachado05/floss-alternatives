@@ -117,6 +117,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Jubler](https://www.jubler.org/index.html) [🟢](https://github.com/teras/Jubler) Support here: [Donate to Jubler](https://www.jubler.org/donations.html)
 
+## Journaling/Diary (examples: Apple Journal, stoic, Day One)
+* [EasyDiary](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary&hl=en_GB) [🟢](https://github.com/hanjoongcho/aaf-easydiary) Support here: [Donate to primary dev](https://github.com/sponsors/hanjoongcho)
+
 ## Video Conferencing (examples: Zoom, Google Meet, Microsoft Teams)
 * [Jitsi](https://meet.jit.si/) [🔴](https://github.com/jitsi/jitsi-meet)
 
