@@ -131,6 +131,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
 * [Plots](https://apps.gnome.org/Plots/) TODO
 
+## Translation (examples: Google Translate, Apple Translate)
+* RTranslator [🟢](https://github.com/niedev/RTranslator) Support here: [Donate to primary dev](https://www.paypal.com/donate/?business=3VBKS3WC6AFHN&no_recurring=0&currency_code=EUR)
+
 ## Invoicing (examples: Wave)
 * [Invoice Ninja](https://invoiceninja.com/) [🔴](https://github.com/invoiceninja/invoiceninja)
 
