@@ -328,6 +328,7 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * [GitButler](https://gitbutler.com/) [🔴](https://github.com/gitbutlerapp/gitbutler)
 
 ## Social Media (examples: FaceBook/Meta, Twitter/X, Reddit)
+Todo: look into Nostr. Also, break this up into better use cases (maybe for the website?)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
 * [Misskey](https://misskey-hub.net/en/) [🟢](https://github.com/misskey-dev/misskey-hub-next) Support here: [Donate to primary dev](https://www.patreon.com/syuilo)
 * [Pleroma](https://pleroma.social/) [🟢](https://git.pleroma.social/pleroma/) Support here: [Doante to Pleroma Dev](https://liberapay.com/Pleroma-euro/)
