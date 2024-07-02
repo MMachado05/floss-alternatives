@@ -127,6 +127,11 @@ You can also click the circles to view the public source code repositories. In m
 ## Self-Publishing Articles/Simple Blogging (examples: Medium)
 * [WriteFreely](https://writefreely.org/) [🟢](https://github.com/writefreely/writefreely) Support here: [Donate to WriteFreely](https://opencollective.com/writefreely#support)
 
+## Web Servers (examples: LiteSpeed)
+* nginx TODO
+* Angie TODO
+* freenginx TODO
+
 ## Graphing calculators (examples: Desmos, Matlab)
 * [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
 * [Plots](https://apps.gnome.org/Plots/) TODO
