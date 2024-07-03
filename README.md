@@ -228,7 +228,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Apache Guacamole](https://guacamole.apache.org/) [🟢](https://github.com/apache/guacamole-server) Support here: [Donate to The Apache Software Foundation](https://www.apache.org/foundation/individual-supporters)
 * [RustDesk](https://rustdesk.com/) [🔴](https://github.com/rustdesk/rustdesk)
 
-## Group Scheduling (examples: when2meet, LettuceMeet)
+## Group Scheduling (examples: when2meet, LettuceMeet, Doodle)
 * [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
 
 ## Game Engines (examples: Unity, Unreal Engine)
