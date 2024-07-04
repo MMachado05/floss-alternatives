@@ -176,7 +176,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
 * [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [🟢](https://github.com/Divested-Mobile/Mull-Fenix) Support by improving the project!
 * [Servo](https://servo.org/) [🟢](https://github.com/servo/servo) Support here: [Donate to Servo](https://github.com/sponsors/servo)
-* [Ladybird](https://ladybird.dev/) [🟢](https://github.com/LadybirdBrowser/ladybird) Support by improving the project!
+* [Ladybird](https://ladybird.org/) [🟢](https://github.com/LadybirdBrowser/ladybird) Support here: [Donate to Ladybird Browser Initiative](https://donorbox.org/ladybird)
 
 ## Artificial Intelligence (AI)/LLMs (examples: ChatGPT, Grok, Gemini, Bard, Llama)
 * [Mixtral 8x7b](https://mistral.ai/news/mixtral-of-experts/) 🟡<sup>[18]</sup>
