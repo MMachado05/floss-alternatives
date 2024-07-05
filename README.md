@@ -134,6 +134,9 @@ You can also click the circles to view the public source code repositories. In m
 * Angie TODO
 * freenginx TODO
 
+## Digital Signature Signing / Form Completion (examples: Docusign)
+* [Docuseal](https://www.docuseal.co/) [🔴](https://github.com/docusealco/docuseal) 
+
 ## Graphing calculators (examples: Desmos, Matlab)
 * [Graphs](https://graphs.sjoerd.se) [🟢](https://gitlab.gnome.org/World/Graphs) Support here: TODO
 * [Plots](https://apps.gnome.org/Plots/) TODO
