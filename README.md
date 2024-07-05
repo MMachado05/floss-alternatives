@@ -60,6 +60,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Element](https://element.io/) [🔴](https://github.com/vector-im)
 * [Mattermost](https://mattermost.com/) [🔴](https://github.com/mattermost/mattermost)
 * [RocketChat](https://www.rocket.chat/) [🔴](https://github.com/RocketChat/Rocket.Chat)
+* [Zulip](https://zulip.com/) [🔴](https://github.com/zulip/zulip/)
 
 ## Home Automation and Remote Control (examples: Alexa, Google Home)
 * [Home Assistant](https://www.home-assistant.io/) [🟡](https://github.com/home-assistant)<sup>[12]</sup>
