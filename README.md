@@ -8,6 +8,8 @@ Also: eventually, I should separate out the projects that only provide front-end
 Also ALSO: I think it'd be useful to link to tools that augment and enhance the experience for a couple of these apps, like wg-easy for WireGuard.
 
 https://github.com/Mindbaz/awesome-opensource-email
+
+Need to add Movim at some point
 ***
 
 This gist serves as a place to find free & libre open-source alternatives to various proprietary softwares. I'll be organizing it such that anyone looking for a FLOSS alternative to some piece of software they use should be relatively easy to find.
