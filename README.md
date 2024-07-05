@@ -191,6 +191,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Bitwarden Authenticator](https://bitwarden.com/help/bitwarden-authenticator/) [🔴](https://github.com/bitwarden/authenticator-android) ([iOS](https://github.com/bitwarden/authenticator-ios))
 * [Ente Auth](https://ente.io/blog/auth/) [🔴](https://github.com/ente-io/ente/tree/main/auth)
 
+## Mobile Phone Keyboards (examples: Swiftkey)
+* [FUTO Keyboard](https://keyboard.futo.org/) [🔴](https://gitlab.futo.org/keyboard/latinime)
+
 ## Audio Transcription (examples: Sonix)
 * [Vibe](https://thewh1teagle.github.io/vibe/) [🟢](https://github.com/thewh1teagle/vibe) Support here: [Donate to primary dev](https://github.com/sponsors/thewh1teagle)
 
