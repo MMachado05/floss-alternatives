@@ -10,6 +10,8 @@ Also ALSO: I think it'd be useful to link to tools that augment and enhance the 
 https://github.com/Mindbaz/awesome-opensource-email
 
 Need to add Movim at some point
+
+Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 ***
 
 This gist serves as a place to find free & libre open-source alternatives to various proprietary softwares. I'll be organizing it such that anyone looking for a FLOSS alternative to some piece of software they use should be relatively easy to find.
