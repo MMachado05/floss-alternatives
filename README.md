@@ -334,6 +334,7 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * [Eclipse](https://www.eclipse.org/ide/) [🟡](https://git.eclipse.org/c/)<sup>[1]</sup> Support here: [Donate to Eclipse](https://www.eclipse.org/sponsor/ide/)
 * [TextMate](https://macromates.com/)<sup>[26]</sup> [🟢](https://github.com/textmate/textmate) Support by improving the project!
 * [Helix](https://helix-editor.com/) [🟢](https://github.com/helix-editor/helix) Support here: [Donate to Helix](https://opencollective.com/helix-editor)
+* [Lapce](https://lapce.dev/) [🟢](https://github.com/lapce/lapce) Support by improving the project!
 
 ## Online Video Sharing, Watching, etc (examples: YouTube, BitChute)
 * [PeerTube](https://joinpeertube.org/en_US) [🟢](https://github.com/Chocobozzz/PeerTube) Support here: [Donate to PeerTube](https://support.joinpeertube.org/en/)
