@@ -39,6 +39,7 @@ You can also click the circles to view the public source code repositories. In m
 * [OpenShot](https://www.openshot.org/) [🟢](https://github.com/OpenShot/openshot-qt) Support here: [Donate to primary dev](https://www.patreon.com/join/openshot)
 * [LosslessCut](https://mifi.no/losslesscut/) [🟢](https://github.com/mifi/lossless-cut) Support here: [Donate to primary dev](https://github.com/sponsors/mifi)
 * [Pitivi](https://www.pitivi.org/) [🟢](https://gitlab.gnome.org/GNOME/pitivi) Support here: [Donate to Pitivi](https://liberapay.com/Pitivi/)
+* [Olive](https://www.olivevideoeditor.org/) [🟢](https://github.com/olive-editor/olive) Support here: [Donate to Olive](https://www.patreon.com/olivevideoeditor)
 
 ## Motion Graphics (examples: After Effects, Blackmagic Fusion, Autodesk Flame)
 * [Natron](https://natrongithub.github.io/) [🟢](https://github.com/NatronGitHub/Natron) Support by improving the project!
@@ -119,6 +120,8 @@ You can also click the circles to view the public source code repositories. In m
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
+* Ivy Wallet
+* [Cashew](https://cashewapp.web.app/) [🟢](https://github.com/jameskokoska/Cashew) Support by improving the project!
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
