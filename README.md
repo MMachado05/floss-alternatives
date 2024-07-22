@@ -221,7 +221,7 @@ You can also click the circles to view the public source code repositories. In m
 ## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
 
-## Ebook Readers (examples: Ebook Reader, Kindle)
+## Ebook Readers (examples: Ebook Reader, Kindle, FBReader)
 * [Myne](https://pooloftears.in/#myne) [🟢](https://github.com/Pool-Of-Tears/Myne) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 
 ## Vector Animations (examples: SVGator, Adobe Illustrator)
