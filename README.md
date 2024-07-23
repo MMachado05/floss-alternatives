@@ -223,6 +223,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Ebook Readers (examples: Ebook Reader, Kindle, FBReader)
 * [Myne](https://pooloftears.in/#myne) [🟢](https://github.com/Pool-Of-Tears/Myne) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
+* [Calibre](https://calibre-ebook.com/) [🟢](https://github.com/kovidgoyal/calibre) Support here: [Donate to primary dev](https://www.patreon.com/kovidgoyal)
 
 ## Vector Animations (examples: SVGator, Adobe Illustrator)
 * [Motion Canvas](https://motioncanvas.io/)<sup>[19]</sup> [🟢](https://github.com/motion-canvas/motion-canvas) Support here: [Donate to primary dev](https://github.com/sponsors/aarthificial) [(Alternative donation link)](https://www.patreon.com/aarthificial)
