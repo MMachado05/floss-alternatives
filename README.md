@@ -212,9 +212,11 @@ You can also click the circles to view the public source code repositories. In m
 * [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
 
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
+TODO: I should break this up into cloud-stored solutions, and local solutions. For the website?
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
 * [Piwigo](https://piwigo.org/) [🟢](https://github.com/Piwigo) Support here: [Donate to Piwigo](https://piwigo.org/get-involved#donate)
 * [Ente](https://ente.io/) [🔴](https://github.com/ente-io/ente)
+* [Photoprism](https://www.photoprism.app/) [🟢](https://github.com/photoprism/photoprism) Support here: [Purchase a Photoprism plan (UNNEEDED FOR SELF-HOSTED)](https://www.photoprism.app/editions)
 * [Aves Libre (ANDROID ONLY)](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pli=1) [🟢](https://github.com/deckerst/aves) Support here: [Donate to primary dev](https://liberapay.com/deckerst)
 * [Fossify Gallery (ANDROID ONLY)](https://f-droid.org/en/packages/org.fossify.gallery/) [🟢](https://github.com/FossifyOrg/Gallery) Support here: [Donate to primary dev](https://www.patreon.com/naveen3singh)
 
