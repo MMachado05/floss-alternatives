@@ -155,6 +155,10 @@ You can also click the circles to view the public source code repositories. In m
 ## Invoicing (examples: Wave)
 * [Invoice Ninja](https://invoiceninja.com/) [🔴](https://github.com/invoiceninja/invoiceninja)
 
+## Software Bug Reporting (examples: GitHub Issues, BugHerd)
+TODO: GitHub would be listed on the website as having this use case.
+* [Bugzilla](https://www.bugzilla.org/) [🟢](https://github.com/bugzilla/bugzilla) Support here: [Donate to Bugzilla](https://liberapay.com/bugzilla/)
+
 ## Pomodoro/Productivity/Time Management (examples: Forest, Session, Toggl Track)
 * Pomatez [🟢](https://github.com/zidoro/pomatez) Support by improving the project!
 
