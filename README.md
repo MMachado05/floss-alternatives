@@ -190,10 +190,13 @@ TODO: GitHub would be listed on the website as having this use case.
 * [Floorp](https://floorp.app/en/) [🟢](https://github.com/Floorp-Projects/Floorp/?tab=readme-ov-file) Support here: [Donate to Ablaze](https://github.com/sponsors/Ablaze-MIRAI)
 * [LibreWolf](https://librewolf.net/) [🟢](https://codeberg.org/librewolf) Support by improving the project!
 * [Mullvad](https://mullvad.net/en/browser) [🟢](https://github.com/mullvad/mullvad-browser) Support by improving the project!
+* Ungoogled-Chromium [🟡](https://github.com/ungoogled-software/ungoogled-chromium) Support by improving the project!
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
 * [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [🟢](https://github.com/Divested-Mobile/Mull-Fenix) Support by improving the project!
 * [Servo](https://servo.org/) [🟢](https://github.com/servo/servo) Support here: [Donate to Servo](https://github.com/sponsors/servo)
 * [Ladybird](https://ladybird.org/) [🟢](https://github.com/LadybirdBrowser/ladybird) Support here: [Donate to Ladybird Browser Initiative](https://donorbox.org/ladybird)
+* [Pale Moon](https://www.palemoon.org/) [🟢](https://www.palemoon.org/sourcecode.shtml) Support here: [Donate to primary dev](https://www.paypal.com/donate?token=GJ4EcUIENyeVMmHRDF19sw9VNjAc8EOnVo_Us-tCEz4CD-7hBg4b_mjPzQ4sRTClhICqjcs6Dtyh1ZQT)
+* [Links](http://links.twibright.com/) [🟢](http://links.twibright.com/download.php) Support here: [Email primary dev for donation inquiries](charlieangkor@gmail.com)
 
 ## Artificial Intelligence (AI)/LLMs (examples: ChatGPT, Grok, Gemini, Bard, Llama)
 * [Mixtral 8x7b](https://mistral.ai/news/mixtral-of-experts/) 🟡<sup>[18]</sup>
