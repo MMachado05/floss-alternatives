@@ -263,6 +263,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 
 ## Group Scheduling (examples: when2meet, LettuceMeet, Doodle)
 * [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
+* [Crab Fit](https://crab.fit/) [🟢](https://github.com/GRA0007/crab.fit) Support here: [Donate to primary dev](https://ko-fi.com/benpai)
 
 ## Game Engines (examples: Unity, Unreal Engine)
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
@@ -370,7 +371,7 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 Todo: look into Nostr. Also, break this up into better use cases (maybe for the website?)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
 * [Misskey](https://misskey-hub.net/en/) [🟢](https://github.com/misskey-dev/misskey-hub-next) Support here: [Donate to primary dev](https://www.patreon.com/syuilo)
-* [Pleroma](https://pleroma.social/) [🟢](https://git.pleroma.social/pleroma/) Support here: [Doante to Pleroma Dev](https://liberapay.com/Pleroma-euro/)
+* [Pleroma](https://pleroma.social/) [🟢](https://git.pleroma.social/pleroma/) Support here: [Donate to Pleroma Dev](https://liberapay.com/Pleroma-euro/)
 * [Discuit](https://discuit.net/) [🟢](https://github.com/discuitnet/discuit) Support by improving the project!
 * [Lemmy](https://join-lemmy.org/) [🟢](https://github.com/LemmyNet/lemmy) Support here: [Donate to Lemmy](https://join-lemmy.org/donate)
 
