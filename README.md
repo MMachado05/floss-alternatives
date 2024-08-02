@@ -163,6 +163,7 @@ TODO: GitHub would be listed on the website as having this use case.
 
 ## Pomodoro/Productivity/Time Management (examples: Forest, Session, Toggl Track)
 * Pomatez [🟢](https://github.com/zidoro/pomatez) Support by improving the project!
+* [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime) [🟢](https://github.com/adrcotfas/Goodtime) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/adrcotfas)
 
 ## Forum Hosting (examples: vBulletin)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
@@ -177,6 +178,10 @@ TODO: GitHub would be listed on the website as having this use case.
 * [Evolution](https://flathub.org/apps/org.gnome.Evolution) [🟢](https://gitlab.gnome.org/GNOME/evolution) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 * [KMail](https://apps.kde.org/kmail2/) [🟢](https://invent.kde.org/pim/kmail) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Geary](https://wiki.gnome.org/Apps/Geary) [🟢](https://gitlab.gnome.org/GNOME/geary) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
+
+## Habit Trackers (examples: Habitify, Streaks)
+* [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
+* [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) [🟢](https://github.com/FriesI23/mhabit) Support here: [Donate to primary dev](https://buymeacoffee.com/d49cb87qgww)
 
 ## Email Providers<sup>[16]</sup> (examples: Outlook, GMail, Yahoo)
 * [ProtonMail](https://proton.me/mail) [🔴](https://github.com/ProtonMail)
