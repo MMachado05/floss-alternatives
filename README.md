@@ -245,6 +245,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 * [Motion Canvas](https://motioncanvas.io/)<sup>[19]</sup> [🟢](https://github.com/motion-canvas/motion-canvas) Support here: [Donate to primary dev](https://github.com/sponsors/aarthificial) [(Alternative donation link)](https://www.patreon.com/aarthificial)
 * [Animotion](https://animotion.pages.dev/) [🟢](https://github.com/animotionjs/animotion) Support here: [Donate to primary dev](https://www.patreon.com/joyofcode)
 
+## News Readers (examples: Apple News, Feedly)
+* [Newsflash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) [🟢](https://gitlab.com/news-flash/news_flash_gtk) Support by improving the project!
+
 ## Note-taking (examples: Evernote, Obsidian, Notion, Notability, OneNote, Goodnotes)
 Todo: separate this into a simple note-taking section, and a pdf-annotating section. I can duplicate the proprietary ones, but it'd be better to organize the alternatives based on the specific use case they try to target.
 * [Joplin](https://joplinapp.org/) [🟢](https://github.com/laurent22/joplin) Support here: [Donate to Joplin](https://joplinapp.org/donate/)
