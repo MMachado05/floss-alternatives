@@ -202,6 +202,7 @@ TODO: GitHub would be listed on the website as having this use case.
 * [Ladybird](https://ladybird.org/) [🟢](https://github.com/LadybirdBrowser/ladybird) Support here: [Donate to Ladybird Browser Initiative](https://donorbox.org/ladybird)
 * [Pale Moon](https://www.palemoon.org/) [🟢](https://www.palemoon.org/sourcecode.shtml) Support here: [Donate to primary dev](https://www.paypal.com/donate?token=GJ4EcUIENyeVMmHRDF19sw9VNjAc8EOnVo_Us-tCEz4CD-7hBg4b_mjPzQ4sRTClhICqjcs6Dtyh1ZQT)
 * [Links](http://links.twibright.com/) [🟢](http://links.twibright.com/download.php) Support here: [Email primary dev for donation inquiries](charlieangkor@gmail.com)
+* [Kristall](https://kristall.random-projects.net/) [🟢](https://github.com/ikskuh/kristall) Support by improving the project! (NOTE: This one is *weird*. I'll have to do some digging later.)
 
 ## Artificial Intelligence (AI)/LLMs (examples: ChatGPT, Grok, Gemini, Bard, Llama)
 * [Mixtral 8x7b](https://mistral.ai/news/mixtral-of-experts/) 🟡<sup>[18]</sup>
