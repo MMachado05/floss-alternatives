@@ -183,6 +183,9 @@ TODO: GitHub would be listed on the website as having this use case.
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
 * [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) [🟢](https://github.com/FriesI23/mhabit) Support here: [Donate to primary dev](https://buymeacoffee.com/d49cb87qgww)
 
+## Financial Investment Trackers (exmaples: Ziggma)
+* [Portfolio Performance](https://www.portfolio-performance.info/en/) [🟢](https://github.com/portfolio-performance/portfolio) Support here: [Donate to primary server maintainer](https://github.com/sponsors/tfabritius)
+
 ## Email Providers<sup>[16]</sup> (examples: Outlook, GMail, Yahoo)
 * [ProtonMail](https://proton.me/mail) [🔴](https://github.com/ProtonMail)
 * [Tuta](https://tuta.com/) [🔴](https://github.com/tutao/tutanota)
