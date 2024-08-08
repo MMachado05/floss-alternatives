@@ -303,7 +303,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 ## Bibliography Software/Reference Management (examples: EasyBib, MyBib)
 * [Zotero (also try out ZoteroBib)](https://www.zotero.org/) [🟢](https://github.com/zotero/zotero) Support by improving the project! (or by buying storage)
 
-## Diagram and Flowchart Creation/Digital Whiteboards (examples: Lucidchart)
+## Diagram and Flowchart Creation/Digital Whiteboards (examples: Lucidchart, eraser.io)
 * [Excalidraw](https://excalidraw.com/) [🔴](https://github.com/excalidraw/excalidraw)
 * [Flowchart.fun](https://flowchart.fun/) [🔴](https://github.com/tone-row/flowchart-fun)
 * [Openboard](https://openboard.ch/index.en.html) [🟢](https://github.com/OpenBoard-org/OpenBoard) Support by improving the project!
