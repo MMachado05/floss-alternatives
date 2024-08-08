@@ -241,6 +241,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 ## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
 
+## Synchronized Group Video Playback (examples: Teleparty)
+* [Sync Watch](https://addons.mozilla.org/en-US/firefox/addon/syncwatch/) [🟢](https://github.com/Semro/syncwatch?tab=readme-ov-file) Support by improving the project!
+
 ## Ebook Readers (examples: Ebook Reader, Kindle, FBReader)
 * [Myne](https://pooloftears.in/#myne) [🟢](https://github.com/Pool-Of-Tears/Myne) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Calibre](https://calibre-ebook.com/) [🟢](https://github.com/kovidgoyal/calibre) Support here: [Donate to primary dev](https://www.patreon.com/kovidgoyal)
