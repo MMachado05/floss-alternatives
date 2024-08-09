@@ -169,7 +169,9 @@ TODO: GitHub would be listed on the website as having this use case.
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
 
 ## Music Streaming (examples: Spotify, Apple Music)
+TODO: I need to separate out clients that work with proprietary providers (Spotube, e.g.) and fully open-source music options like Navidrome or Jellyfin clients.
 * [Spotube](https://spotube.krtirtho.dev/) [🟢](https://github.com/KRTirtho/spotube?referrer=spotube.krtirtho.dev) Support here: [Donate to Spotube](https://opencollective.com/spotube#category-CONTRIBUTE)
+* [Cider Legacy](https://cider.sh/) [🔴](https://github.com/ciderapp/Cider) NOTE: They're coming out with a v2 that's proprietary or something? Not really sure.
 * [Navidrome](https://www.navidrome.org/) [🟢](https://github.com/navidrome/navidrome/) Support here: [Donate to primary dev](https://liberapay.com/deluan)
 
 ## Email Clients (examples: Outlook, Apple Mail, Blue Mail)
