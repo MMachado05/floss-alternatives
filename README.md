@@ -180,6 +180,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Evolution](https://flathub.org/apps/org.gnome.Evolution) [🟢](https://gitlab.gnome.org/GNOME/evolution) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 * [KMail](https://apps.kde.org/kmail2/) [🟢](https://invent.kde.org/pim/kmail) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Geary](https://wiki.gnome.org/Apps/Geary) [🟢](https://gitlab.gnome.org/GNOME/geary) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
+* [Roundcube](https://roundcube.net/) [🟢](https://github.com/roundcube/roundcubemail) Support by improving the project!
 
 ## Habit Trackers (examples: Habitify, Streaks)
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
