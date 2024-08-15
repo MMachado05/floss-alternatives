@@ -78,6 +78,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Berty](https://berty.tech/messenger) [🟢](https://github.com/berty/berty) Support here: [Donate to Berty](https://github.com/sponsors/berty)
 * [Briar](https://briarproject.org/) [🟢](https://code.briarproject.org/briar) Support here: [Donate to Briar](https://liberapay.com/Briar/donate)
 * [Telegram](https://telegram.org/) [🟡](https://telegram.org/apps#source-code)<sup>[7]</sup>
+* Molly [🟢](https://github.com/mollyim/mollyim-android) Support here: [Donate to MollyIM](https://opencollective.com/mollyim)
 * [Simplex](https://simplex.chat) [🟢](https://github.com/simplex-chat/simplex-chat) Support here: [Donate to Simplex](https://github.com/sponsors/simplex-chat)
 * [Quik SMS (ANDROID ONLY)](https://f-droid.org/en/packages/dev.octoshrimpy.quik/) [🟢](https://github.com/octoshrimpy/quik) Support here: [Donate to primary dev](https://liberapay.com/octoshrimpy)
 
