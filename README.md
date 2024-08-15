@@ -102,6 +102,12 @@ You can also click the circles to view the public source code repositories. In m
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Collabora Online Development Edition](https://www.collaboraoffice.com/code/) [🔴](https://github.com/CollaboraOnline)
 
+## Website Analytics (examples: Google Analytics)
+* [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
+
+## Newsletters and Email Marketing (examples: Intuit Mailchimp)
+* [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Doante to Pentacent](https://github.com/sponsors/pentacent)
+
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
 
