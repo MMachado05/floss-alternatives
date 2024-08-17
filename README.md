@@ -274,6 +274,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
 * [Xournal++](https://xournalpp.github.io/) [🟢](https://github.com/xournalpp/xournalpp/) Support by improving the project!
+* [SilverBullet](https://silverbullet.md/) [🟢](https://github.com/silverbulletmd/silverbullet) Support by improving the project!
 * [Logseq](https://logseq.com/) [🟢](https://github.com/logseq/logseq) Support here: [Donate to Logseq](https://opencollective.com/logseq?ref=blog.logseq.com)
 * [Marknote](https://apps.kde.org/marknote/) [🟢](https://invent.kde.org/office/marknote) Support here: [Donate to KDE](https://kde.org/community/donations/)
 
