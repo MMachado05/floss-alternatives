@@ -9,6 +9,8 @@ Also ALSO: I think it'd be useful to link to tools that augment and enhance the 
 
 https://github.com/Mindbaz/awesome-opensource-email
 
+https://github.com/unicodeveloper/awesome-opensource-apps
+
 Need to add Movim at some point
 
 Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
