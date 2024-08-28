@@ -124,6 +124,7 @@ You can also click the circles to view the public source code repositories. In m
 * [AppFlowy](https://www.appflowy.io/) [🟢](https://github.com/AppFlowy-IO/AppFlowy) Support by improving the project!
 * [FocalBoard](https://www.focalboard.com/) [🔴](https://github.com/mattermost/focalboard)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
+* [Wekan](https://wekan.github.io/) [🟢](https://github.com/Wekan/wekan/) Support here: [Donate to Wekan](https://www.paypal.com/donate?token=K9kVwwTlggAQjirwtYxxuXWh8marLUrQTxp45aDyVJ-xskqJpg_dMrDhkTEybQVOVUxDwBrIjxRZueto)
 
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
