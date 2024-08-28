@@ -15,6 +15,8 @@ Need to add Movim at some point
 
 Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 
+https://www.mautic.org/
+
 And maybe [Polychromatic](https://polychromatic.app/)
 ***
 
