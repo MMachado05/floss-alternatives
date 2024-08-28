@@ -213,6 +213,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * Ungoogled-Chromium [🟡](https://github.com/ungoogled-software/ungoogled-chromium) Support by improving the project!
 * [Brave](https://brave.com/) [🔴](https://github.com/brave)
 * [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) [🟢](https://github.com/Divested-Mobile/Mull-Fenix) Support by improving the project!
+* [Zen](https://www.zen-browser.app/) [🟢](https://github.com/zen-browser/desktop) Support here: [Donate to Zen](https://www.patreon.com/zen_browser)
 * [Servo](https://servo.org/) [🟢](https://github.com/servo/servo) Support here: [Donate to Servo](https://github.com/sponsors/servo)
 * [Ladybird](https://ladybird.org/) [🟢](https://github.com/LadybirdBrowser/ladybird) Support here: [Donate to Ladybird Browser Initiative](https://donorbox.org/ladybird)
 * [Pale Moon](https://www.palemoon.org/) [🟢](https://www.palemoon.org/sourcecode.shtml) Support here: [Donate to primary dev](https://www.paypal.com/donate?token=GJ4EcUIENyeVMmHRDF19sw9VNjAc8EOnVo_Us-tCEz4CD-7hBg4b_mjPzQ4sRTClhICqjcs6Dtyh1ZQT)
