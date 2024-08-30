@@ -335,6 +335,9 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [NextCloud](https://nextcloud.com/) [🔴](https://github.com/nextcloud)
 * [OwnCloud](https://owncloud.com/) [🔴](https://github.com/owncloud)
 
+## Online code playgrounds (examples: repl.it)
+* [Riju](https://riju.codes/) [🟢](https://github.com/radian-software/riju) Support here: [Donate to Radian Software](https://www.patreon.com/radiansoftware)
+
 ## Studying Tools/Flashcards (examples: Quizlet)
 * [Anki](https://apps.ankiweb.net/) [🟢](https://github.com/ankitects/anki) Support by improving the project!<sup>[3]</sup>
 
