@@ -15,6 +15,8 @@ https://transitous.org (especially for things with OpenStreetMaps. Crowdsourced 
 
 Need to add Movim at some point
 
+https://rawtherapee.com/
+
 Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 
 https://www.mautic.org/
