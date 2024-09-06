@@ -19,6 +19,8 @@ Need to add Movim at some point
 
 https://rawtherapee.com/
 
+https://github.com/DifuseHQ/Kalmia
+
 Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 
 https://www.mautic.org/
