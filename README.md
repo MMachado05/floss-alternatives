@@ -13,6 +13,8 @@ https://github.com/unicodeveloper/awesome-opensource-apps
 
 https://www.opensourcealternative.to
 
+https://anytype.io (I don't think it's F/LOSS but it's worth looking into)
+
 https://transitous.org (especially for things with OpenStreetMaps. Crowdsourced knowledge doesn't fit here perfectly but I feel obligated to mention it somewhere.)
 
 Need to add Movim at some point
