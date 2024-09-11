@@ -285,6 +285,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 ## News Readers (examples: Apple News, Feedly)
 * [Newsflash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) [🟢](https://gitlab.com/news-flash/news_flash_gtk) Support by improving the project!
 
+## Resume Builders (examples: Canva, NovoResume, Zety)
+* [Reactive Resume](https://rxresu.me/) [🟢](https://github.com/AmruthPillai/Reactive-Resume/) Support here: [Donate to Reactive Resume](https://opencollective.com/reactive-resume)
+
 ## Note-taking (examples: Evernote, Obsidian, Notion, Notability, OneNote, Goodnotes)
 Todo: separate this into a simple note-taking section, and a pdf-annotating section. I can duplicate the proprietary ones, but it'd be better to organize the alternatives based on the specific use case they try to target.
 * [Joplin](https://joplinapp.org/) [🟢](https://github.com/laurent22/joplin) Support here: [Donate to Joplin](https://joplinapp.org/donate/)
