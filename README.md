@@ -296,6 +296,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Rnote](https://rnote.flxzt.net/) [🟢](https://github.com/flxzt/rnote) Support here: [Donate to primary dev](https://github.com/sponsors/flxzt)
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
+* Treedome [🟢](https://codeberg.org/solver-orgz/treedome) Support by improving the project!
 * [Xournal++](https://xournalpp.github.io/) [🟢](https://github.com/xournalpp/xournalpp/) Support by improving the project!
 * [SilverBullet](https://silverbullet.md/) [🟢](https://github.com/silverbulletmd/silverbullet) Support by improving the project!
 * [Logseq](https://logseq.com/) [🟢](https://github.com/logseq/logseq) Support here: [Donate to Logseq](https://opencollective.com/logseq?ref=blog.logseq.com)
