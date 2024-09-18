@@ -392,12 +392,13 @@ Specifically, I should probably look into what can be self-hosted and what can't
 ## Desktop Operating Systems (examples: MacOS, Windows 7/8/10/11)
 Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Word to the wise; the desktop environment will matter a lot more to the layman than anything else (you're looking for keywords like "Cinnamon," "KDE," "GNOME," "Xfce," "Mate," and a few others.)
 
-## Code Editing (examples: Sublime)
+## Code Editing (examples: Sublime, Cursor)
 * [VSCode](https://code.visualstudio.com/) [🔴](https://github.com/microsoft/vscode)
 * [VSCodium](https://vscodium.com/) [🟢](https://github.com/VSCodium/vscodium) Support by improving the project!
 * [Neovim](https://neovim.io/) [🟢](https://github.com/neovim/neovim) Support here: [Donate to Neovim](https://opencollective.com/neovim)
 * [Zed](https://zed.dev/)<sup>[23]</sup> [🟢](https://github.com/zed-industries/zed) Support by improving the project!
 * [Vim](https://www.vim.org/) [🟢](https://github.com/vim/vim) Support by improving the project!<sup>[4]</sup>
+* [Void](https://voideditor.com/) [🟢](https://github.com/voideditor/void) Support by improving the project!
 * [Emacs](https://www.gnu.org/software/emacs/) [🟢](https://github.com/emacs-mirror/emacs) Support here: [Free Software Foundation](https://my.fsf.org/donate/)
 * [JetBrains IDEs](https://www.jetbrains.com/products/) (language-specific) [🔴](https://github.com/JetBrains)
 * [Eclipse](https://www.eclipse.org/ide/) [🟡](https://git.eclipse.org/c/)<sup>[1]</sup> Support here: [Donate to Eclipse](https://www.eclipse.org/sponsor/ide/)
