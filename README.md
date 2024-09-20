@@ -208,6 +208,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
 * [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) [🟢](https://github.com/FriesI23/mhabit) Support here: [Donate to primary dev](https://buymeacoffee.com/d49cb87qgww)
 
+## Learning Management Systems (examples: Blackboard)
+* [Canvas](https://www.instructure.com/canvas) [🔴](https://github.com/instructure/canvas-lms)
+
 ## Financial Investment Trackers (exmaples: Ziggma)
 * [Portfolio Performance](https://www.portfolio-performance.info/en/) [🟢](https://github.com/portfolio-performance/portfolio) Support here: [Donate to primary server maintainer](https://github.com/sponsors/tfabritius)
 
