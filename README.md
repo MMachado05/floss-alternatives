@@ -27,6 +27,8 @@ Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 
 https://www.mautic.org/
 
+https://github.com/markusfisch/ScreenTime
+
 And maybe [Polychromatic](https://polychromatic.app/)
 ***
 
