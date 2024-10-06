@@ -23,6 +23,8 @@ https://rawtherapee.com/
 
 https://openfreemap.org/
 
+https://nos.social/creator-residency
+
 https://github.com/DifuseHQ/Kalmia
 
 Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
