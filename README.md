@@ -108,6 +108,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Music/Audio Development (examples: FL Studio, Ableton, Bitwig, Renoise, Reaper)
 * [Audacity](https://www.audacityteam.org/)  [🟢](https://github.com/audacity/audacity) Support by improving the project!
+* [Ardour](https://ardour.org/) [🟢](https://git.ardour.org/ardour/ardour) Support here: [Donate to Ardour](https://community.ardour.org/subscribe)
 * [Tenacity](https://tenacityaudio.org/) [🟢](https://codeberg.org/tenacityteam/tenacity) Support by improving the project!
 
 ## Design Prototyping (examples: Figma)
