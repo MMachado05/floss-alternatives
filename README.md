@@ -21,11 +21,13 @@ https://transitous.org (especially for things with OpenStreetMaps. Crowdsourced 
 
 Need to add Movim at some point
 
+https://www.sphinx-doc.org/en/master/
+
 https://rawtherapee.com/
 
 https://openfreemap.org/
 
-https://nos.social/creator-residency
+https://nos.social/
 
 https://github.com/DifuseHQ/Kalmia
 
