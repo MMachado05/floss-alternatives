@@ -27,6 +27,8 @@ https://rawtherapee.com/
 
 https://openfreemap.org/
 
+https://htmlforpeople.com/ (At this point, the purpose of this repo is unwinding. If I really do ever make my website idea, I'll likely have to include a link to a simple list of tools that aid in the democratization of tech.)
+
 https://nos.social/
 
 https://github.com/DifuseHQ/Kalmia
