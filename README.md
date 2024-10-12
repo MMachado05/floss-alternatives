@@ -221,6 +221,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
 * [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) [🟢](https://github.com/FriesI23/mhabit) Support here: [Donate to primary dev](https://buymeacoffee.com/d49cb87qgww)
 
+## UML/SysML Diagram Tools (examples: LucidChart, Astah, Adobe Express, Edraw Max)
+* [Gaphor](https://gaphor.org/) [🟢](https://github.com/gaphor/gaphor) Support here: [Donate to Gaphor](https://github.com/sponsors/gaphor)
+
 ## Learning Management Systems (examples: Blackboard)
 * [Canvas](https://www.instructure.com/canvas) [🔴](https://github.com/instructure/canvas-lms)
 
