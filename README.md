@@ -203,6 +203,9 @@ TODO: GitHub would be listed on the website as having this use case.
 ## Forum Hosting (examples: vBulletin)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
 
+# Customer Relationshio Management Tools, or CRMs (examples: SalesForce)
+* [Twenty](https://twenty.com) [🟢](https://github.com/twentyhq/twenty) Support by improving the project!
+
 ## Music Streaming (examples: Spotify, Apple Music)
 TODO: I need to separate out clients that work with proprietary providers (Spotube, e.g.) and fully open-source music options like Navidrome or Jellyfin clients.
 * [Spotube](https://spotube.krtirtho.dev/) [🟢](https://github.com/KRTirtho/spotube?referrer=spotube.krtirtho.dev) Support here: [Donate to Spotube](https://opencollective.com/spotube#category-CONTRIBUTE)
