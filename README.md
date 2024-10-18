@@ -13,6 +13,8 @@ https://github.com/unicodeveloper/awesome-opensource-apps
 
 https://github.com/rust-lang/mdBook
 
+https://indieweb.org/
+
 https://www.opensourcealternative.to
 
 https://anytype.io (I don't think it's F/LOSS but it's worth looking into)
