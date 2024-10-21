@@ -441,6 +441,9 @@ Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Wo
 * [GitHub Desktop](https://desktop.github.com/) [🔴](https://github.com/desktop/desktop)
 * [GitButler](https://gitbutler.com/) [🔴](https://github.com/gitbutlerapp/gitbutler)
 
+## Backend-as-a-Service / BaaS (examples: Firebase)
+* [Appwrite](https://appwrite.io/) [🔴](https://github.com/appwrite/appwrite)
+
 ## Social Media (examples: FaceBook/Meta, Twitter/X, Reddit)
 Todo: look into Nostr. Also, break this up into better use cases (maybe for the website?)
 * [Mastodon](https://joinmastodon.org/) [🟢](https://github.com/mastodon/mastodon) Support here: [Donate to Mastodon](https://joinmastodon.org/sponsors)
