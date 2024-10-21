@@ -17,6 +17,8 @@ https://indieweb.org/
 
 https://www.opensourcealternative.to
 
+https://twenty.com/oss-friends (and then it's a rabbithole of interesting software from here)
+
 https://anytype.io (I don't think it's F/LOSS but it's worth looking into)
 
 https://transitous.org (especially for things with OpenStreetMaps. Crowdsourced knowledge doesn't fit here perfectly but I feel obligated to mention it somewhere.)
