@@ -15,6 +15,8 @@ https://github.com/rust-lang/mdBook
 
 https://indieweb.org/
 
+https://github.com/monkeytypegame/monkeytype (didn't know MonkeyType was GPLv3 licensed.)
+
 https://www.opensourcealternative.to
 
 https://twenty.com/oss-friends (and then it's a rabbithole of interesting software from here)
