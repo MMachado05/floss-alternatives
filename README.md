@@ -29,6 +29,8 @@ Need to add Movim at some point
 
 https://www.sphinx-doc.org/en/master/
 
+https://letsdecentralize.org/
+
 https://rawtherapee.com/
 
 https://openfreemap.org/
