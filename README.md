@@ -327,6 +327,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Joplin](https://joplinapp.org/) [🟢](https://github.com/laurent22/joplin) Support here: [Donate to Joplin](https://joplinapp.org/donate/)
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
 * [Simplenote](https://simplenote.com/) [🔴](https://github.com/Automattic/simplenote-electron)
+* [Affine](https://affine.pro) [🔴](https://github.com/toeverything/AFFiNE)
 * [Rnote](https://rnote.flxzt.net/) [🟢](https://github.com/flxzt/rnote) Support here: [Donate to primary dev](https://github.com/sponsors/flxzt)
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
