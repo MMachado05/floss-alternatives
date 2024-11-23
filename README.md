@@ -293,6 +293,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Snipe-IT](https://snipeitapp.com/) [🔴](https://github.com/snipe/snipe-it)
 * [Homebox](https://homebox.software/en/) [🟢](https://github.com/sysadminsmedia/homebox) Support here: [Donate to primary dev](https://github.com/sponsors/tankerkiller125)
 
+## Book Tracking/Reading Tracking (examples: Goodreads)
+* Openreads [🟢](https://github.com/mateusz-bak/openreads) Support here: [Donate to primary dev](https://github.com/sponsors/mateusz-bak)
+
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 TODO: I should break this up into cloud-stored solutions, and local solutions. For the website?
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
