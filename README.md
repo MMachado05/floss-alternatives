@@ -11,6 +11,8 @@ https://github.com/Mindbaz/awesome-opensource-email
 
 https://github.com/unicodeveloper/awesome-opensource-apps
 
+https://openwrt.org/start
+
 https://github.com/rust-lang/mdBook
 
 https://indieweb.org/
