@@ -328,8 +328,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 * [Motion Canvas](https://motioncanvas.io/)<sup>[19]</sup> [🟢](https://github.com/motion-canvas/motion-canvas) Support here: [Donate to primary dev](https://github.com/sponsors/aarthificial) [(Alternative donation link)](https://www.patreon.com/aarthificial)
 * [Animotion](https://animotion.pages.dev/) [🟢](https://github.com/animotionjs/animotion) Support here: [Donate to primary dev](https://www.patreon.com/joyofcode)
 
-## News Readers (examples: Apple News, Feedly)
+## News Readers/RSS Readers (examples: Apple News, Feedly)
 * [Newsflash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) [🟢](https://gitlab.com/news-flash/news_flash_gtk) Support by improving the project!
+* RSS Guard [🟢](https://github.com/martinrotter/rssguard) Support here: [Donate to primary dev])(https://liberapay.com/martinrotter)
 
 ## Resume Builders (examples: Canva, NovoResume, Zety)
 * [Reactive Resume](https://rxresu.me/) [🟢](https://github.com/AmruthPillai/Reactive-Resume/) Support here: [Donate to Reactive Resume](https://opencollective.com/reactive-resume)
