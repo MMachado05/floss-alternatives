@@ -418,6 +418,7 @@ Specifically, I should probably look into what can be self-hosted and what can't
 * [WordPress](https://wordpress.com/) [🔴](https://core.trac.wordpress.org/browser/)
 * [Ghost](https://ghost.org/) [🔴](https://github.com/TryGhost/Ghost)
 * [TinaCMS](https://tina.io/) [🔴](https://github.com/tinacms/tinacms)
+* [Webstudio](https://webstudio.is/) [🔴](https://github.com/webstudio-is/webstudio)
 * [Drupal](https://www.drupal.org/) [🟢](https://github.com/drupal) Support here: [Donate to Drupal Association](https://www.classy.org/give/402867/#!/donation/checkout)
 * Joomla (todo)
 * Jekyll (todo)
