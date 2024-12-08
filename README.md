@@ -146,10 +146,14 @@ You can also click the circles to view the public source code repositories. In m
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
 
 ## Newsletters and Email Marketing (examples: Intuit Mailchimp)
-* [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Doante to Pentacent](https://github.com/sponsors/pentacent)
+* [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Donate to Pentacent](https://github.com/sponsors/pentacent)
 
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
+
+## Personal Link Aggregator (examples: LinkTree)
+* [LinkStack](https://linkstack.org/) [🟢](https://github.com/LinkStackOrg/LinkStack) Support here: [Donation options](https://linkstack.org/donate/)
+* LinkBoard [🟢](https://github.com/HangerThem/linkboard) Support here: [Donate to primary dev](https://github.com/sponsors/HangerThem)
 
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
