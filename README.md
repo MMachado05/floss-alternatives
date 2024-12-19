@@ -176,8 +176,8 @@ You can also click the circles to view the public source code repositories. In m
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
-* Ivy Wallet
 * [Cashew](https://cashewapp.web.app/) [🟢](https://github.com/jameskokoska/Cashew) Support by improving the project!
+* [Monekin](https://play.google.com/store/apps/details?id=com.monekin.app) [🟢](https://github.com/enrique-lozano/Monekin) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/lozanoelc?locale.x=en_US)
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
@@ -519,6 +519,7 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 * 😶‍🌫️ Standardnotes (note-taking)
 * 💔 Aseprite (digital drawing [pixelart])
 * 💀 NoteKit (note-taking)
+* 💀 Ivy Wallet
 
 ***
 
