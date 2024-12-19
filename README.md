@@ -220,8 +220,13 @@ TODO: GitHub would be listed on the website as having this use case.
 * Pomatez [🟢](https://github.com/zidoro/pomatez) Support by improving the project!
 * [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime) [🟢](https://github.com/adrcotfas/Goodtime) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/adrcotfas)
 
-## Forum Hosting (examples: vBulletin)
+## Forum Hosting (examples: vBulletin, XenForo)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
+* [Flarum](https://flarum.org/) [🟢](https://github.com/flarum) Support here: [Donate to Flarum](https://opencollective.com/flarum)
+* [ElkArte](https://www.elkarte.net/) [🟢](https://github.com/elkarte/Elkarte) Support by improving the project!
+* [Talkyard](https://www.talkyard.io/) [🔴](https://github.com/debiki/talkyard)
+* [phpBB](https://www.phpbb.com/) [🟢](https://github.com/phpbb/phpbb) Support here: [Donate to phpBB](https://github.com/sponsors/phpbb)
+* [NodeBB](https://nodebb.org/) [🔴](https://github.com/NodeBB/NodeBB)
 
 # Customer Relationshio Management Tools, or CRMs (examples: SalesForce)
 * [Twenty](https://twenty.com) [🟢](https://github.com/twentyhq/twenty) Support by improving the project!
