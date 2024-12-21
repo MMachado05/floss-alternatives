@@ -11,9 +11,15 @@ https://github.com/Mindbaz/awesome-opensource-email
 
 https://github.com/unicodeveloper/awesome-opensource-apps
 
+https://openwrt.org/start
+
 https://github.com/rust-lang/mdBook
 
+https://codeberg.org/SafeTwitch
+
 https://indieweb.org/
+
+https://codehiddenlanguage.com/Chapter00/
 
 https://github.com/monkeytypegame/monkeytype (didn't know MonkeyType was GPLv3 licensed.)
 
@@ -142,10 +148,14 @@ You can also click the circles to view the public source code repositories. In m
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
 
 ## Newsletters and Email Marketing (examples: Intuit Mailchimp)
-* [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Doante to Pentacent](https://github.com/sponsors/pentacent)
+* [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Donate to Pentacent](https://github.com/sponsors/pentacent)
 
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
+
+## Personal Link Aggregator (examples: LinkTree)
+* [LinkStack](https://linkstack.org/) [🟢](https://github.com/LinkStackOrg/LinkStack) Support here: [Donation options](https://linkstack.org/donate/)
+* LinkBoard [🟢](https://github.com/HangerThem/linkboard) Support here: [Donate to primary dev](https://github.com/sponsors/HangerThem)
 
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
@@ -156,6 +166,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
 * [AppFlowy](https://www.appflowy.io/) [🟢](https://github.com/AppFlowy-IO/AppFlowy) Support by improving the project!
 * [FocalBoard](https://www.focalboard.com/) [🔴](https://github.com/mattermost/focalboard)
+* [TagSpaces](https://www.tagspaces.org/) [🔴](https://github.com/tagspaces/tagspaces)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
 * [Wekan](https://wekan.github.io/) [🟢](https://github.com/Wekan/wekan/) Support here: [Donate to Wekan](https://www.paypal.com/donate?token=K9kVwwTlggAQjirwtYxxuXWh8marLUrQTxp45aDyVJ-xskqJpg_dMrDhkTEybQVOVUxDwBrIjxRZueto)
 
@@ -165,8 +176,8 @@ You can also click the circles to view the public source code repositories. In m
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
-* Ivy Wallet
 * [Cashew](https://cashewapp.web.app/) [🟢](https://github.com/jameskokoska/Cashew) Support by improving the project!
+* [Monekin](https://play.google.com/store/apps/details?id=com.monekin.app) [🟢](https://github.com/enrique-lozano/Monekin) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/lozanoelc?locale.x=en_US)
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
@@ -209,8 +220,13 @@ TODO: GitHub would be listed on the website as having this use case.
 * Pomatez [🟢](https://github.com/zidoro/pomatez) Support by improving the project!
 * [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime) [🟢](https://github.com/adrcotfas/Goodtime) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/adrcotfas)
 
-## Forum Hosting (examples: vBulletin)
+## Forum Hosting (examples: vBulletin, XenForo)
 * [Discourse](https://www.discourse.org/) [🔴](https://github.com/discourse/discourse)
+* [Flarum](https://flarum.org/) [🟢](https://github.com/flarum) Support here: [Donate to Flarum](https://opencollective.com/flarum)
+* [ElkArte](https://www.elkarte.net/) [🟢](https://github.com/elkarte/Elkarte) Support by improving the project!
+* [Talkyard](https://www.talkyard.io/) [🔴](https://github.com/debiki/talkyard)
+* [phpBB](https://www.phpbb.com/) [🟢](https://github.com/phpbb/phpbb) Support here: [Donate to phpBB](https://github.com/sponsors/phpbb)
+* [NodeBB](https://nodebb.org/) [🔴](https://github.com/NodeBB/NodeBB)
 
 # Customer Relationshio Management Tools, or CRMs (examples: SalesForce)
 * [Twenty](https://twenty.com) [🟢](https://github.com/twentyhq/twenty) Support by improving the project!
@@ -293,6 +309,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Snipe-IT](https://snipeitapp.com/) [🔴](https://github.com/snipe/snipe-it)
 * [Homebox](https://homebox.software/en/) [🟢](https://github.com/sysadminsmedia/homebox) Support here: [Donate to primary dev](https://github.com/sponsors/tankerkiller125)
 
+## Book Tracking/Reading Tracking (examples: Goodreads)
+* Openreads [🟢](https://github.com/mateusz-bak/openreads) Support here: [Donate to primary dev](https://github.com/sponsors/mateusz-bak)
+
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 TODO: I should break this up into cloud-stored solutions, and local solutions. For the website?
 * [Immich](https://immich.app/) [🟢](https://github.com/immich-app/immich) Support here: [Donate to primary dev](https://liberapay.com/alex.tran1502)
@@ -316,8 +335,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 * [Motion Canvas](https://motioncanvas.io/)<sup>[19]</sup> [🟢](https://github.com/motion-canvas/motion-canvas) Support here: [Donate to primary dev](https://github.com/sponsors/aarthificial) [(Alternative donation link)](https://www.patreon.com/aarthificial)
 * [Animotion](https://animotion.pages.dev/) [🟢](https://github.com/animotionjs/animotion) Support here: [Donate to primary dev](https://www.patreon.com/joyofcode)
 
-## News Readers (examples: Apple News, Feedly)
+## News Readers/RSS Readers (examples: Apple News, Feedly)
 * [Newsflash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) [🟢](https://gitlab.com/news-flash/news_flash_gtk) Support by improving the project!
+* RSS Guard [🟢](https://github.com/martinrotter/rssguard) Support here: [Donate to primary dev])(https://liberapay.com/martinrotter)
 
 ## Resume Builders (examples: Canva, NovoResume, Zety)
 * [Reactive Resume](https://rxresu.me/) [🟢](https://github.com/AmruthPillai/Reactive-Resume/) Support here: [Donate to Reactive Resume](https://opencollective.com/reactive-resume)
@@ -406,6 +426,7 @@ Specifically, I should probably look into what can be self-hosted and what can't
 * [WordPress](https://wordpress.com/) [🔴](https://core.trac.wordpress.org/browser/)
 * [Ghost](https://ghost.org/) [🔴](https://github.com/TryGhost/Ghost)
 * [TinaCMS](https://tina.io/) [🔴](https://github.com/tinacms/tinacms)
+* [Webstudio](https://webstudio.is/) [🔴](https://github.com/webstudio-is/webstudio)
 * [Drupal](https://www.drupal.org/) [🟢](https://github.com/drupal) Support here: [Donate to Drupal Association](https://www.classy.org/give/402867/#!/donation/checkout)
 * Joomla (todo)
 * Jekyll (todo)
@@ -498,6 +519,7 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 * 😶‍🌫️ Standardnotes (note-taking)
 * 💔 Aseprite (digital drawing [pixelart])
 * 💀 NoteKit (note-taking)
+* 💀 Ivy Wallet
 
 ***
 
