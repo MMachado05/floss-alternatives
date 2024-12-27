@@ -305,6 +305,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 ## Nutrition trackers (examples: MyFitnessPal, MyNetDiary)
 * [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
 
+## Online Dating (examples: eHarmony, Tinder, Hinge, Bumble)
+* [Alovoa](https://alovoa.com/) [🟢](https://github.com/Alovoa/alovoa) Support here: [Donate to Alovoa](https://alovoa.com/donate-list)
+
 ## Inventory management (examples: Sortly, HomeZada)
 * [Snipe-IT](https://snipeitapp.com/) [🔴](https://github.com/snipe/snipe-it)
 * [Homebox](https://homebox.software/en/) [🟢](https://github.com/sysadminsmedia/homebox) Support here: [Donate to primary dev](https://github.com/sponsors/tankerkiller125)
@@ -502,7 +505,7 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 
 ***
 ## Programs I have yet to find viable open-source options for (I urge those capable of doing so to start a project!):
-* Dating apps (Tinder, Bumble, Boo, Hinge, eHarmony)
+* x
 
 ***
 ## The following applications were deliberately left out due to a personal assessment that they are not viable projects. I am open to changing my assessments of these.
@@ -513,7 +516,6 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 
 ### Projects:
 * 💀 Laverna (design)
-* 💀 Alovoa (dating)
 * 💀 Atom (code editing)
 * 💀 MyPaint (digital painting)
 * 😶‍🌫️ Standardnotes (note-taking)
