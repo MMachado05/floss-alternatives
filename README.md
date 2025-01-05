@@ -17,6 +17,10 @@ https://github.com/rust-lang/mdBook
 
 https://codeberg.org/SafeTwitch
 
+https://kando.menu/
+
+https://usebottles.com/
+
 https://indieweb.org/
 
 https://codehiddenlanguage.com/Chapter00/
