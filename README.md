@@ -378,6 +378,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 ## Game Engines (examples: Unity, Unreal Engine)
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
+* [Fyrox](https://fyrox.rs/) [🟢](https://github.com/FyroxEngine/Fyrox) Support here: [Donate to primary dev](https://boosty.to/fyrox)
 * [Flax Engine](https://flaxengine.com/) [🔴](https://github.com/FlaxEngine/FlaxEngine)<sup>[24]</sup>
 * [Bevy](https://bevyengine.org/) [🟢](https://github.com/bevyengine/bevy) Support here: [Donate to Bevy Foundation](https://bevyengine.org/donate/)
 * [Defold](https://defold.com/) [🟢](https://github.com/defold/defold) Support here: [Donate to the Defold Foundation](https://github.com/sponsors/defold)
