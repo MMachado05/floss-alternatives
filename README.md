@@ -235,6 +235,9 @@ TODO: GitHub would be listed on the website as having this use case.
 # Customer Relationshio Management Tools, or CRMs (examples: SalesForce)
 * [Twenty](https://twenty.com) [🟢](https://github.com/twentyhq/twenty) Support by improving the project!
 
+# Wiki Farms (examples: Fandom)
+* [Miraheze](https://miraheze.org/) [🟢](https://github.com/miraheze) Support here: [Donate to Miraheze](https://ko-fi.com/miraheze)
+
 ## Music Streaming (examples: Spotify, Apple Music)
 TODO: I need to separate out clients that work with proprietary providers (Spotube, e.g.) and fully open-source music options like Navidrome or Jellyfin clients.
 * [Spotube](https://spotube.krtirtho.dev/) [🟢](https://github.com/KRTirtho/spotube?referrer=spotube.krtirtho.dev) Support here: [Donate to Spotube](https://opencollective.com/spotube#category-CONTRIBUTE)
