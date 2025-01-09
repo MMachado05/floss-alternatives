@@ -204,6 +204,9 @@ You can also click the circles to view the public source code repositories. In m
 * Angie TODO
 * freenginx TODO
 
+## VTubing Modeling/Rigging/Streaming (examples: VTube Studio)
+* [Inochi2D](https://inochi2d.com/) [🟢](https://github.com/inochi2d) Support here: [Donate to primary dev](https://github.com/sponsors/LunaTheFoxgirl)
+
 ## Digital Signature Signing / Form Completion (examples: Docusign)
 * [Docuseal](https://www.docuseal.co/) [🔴](https://github.com/docusealco/docuseal)
 * [Documenso](https://documenso.com/) [🔴](https://github.com/documenso/documenso)
