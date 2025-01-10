@@ -21,6 +21,8 @@ https://codeberg.org/SafeTwitch
 
 https://kando.menu/
 
+https://thanks.dev/
+
 https://usebottles.com/
 
 https://indieweb.org/
