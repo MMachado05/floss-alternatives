@@ -142,6 +142,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Design Prototyping (examples: Figma)
 * [Penpot](https://penpot.app/) [🟢](https://github.com/penpot)<sup>[5]</sup> Support by improving the project!
 
+# Quiz Game Creators (examples: Kahoot)
+* [Fuiz](https://fuiz.us/) [🟢](https://gitlab.com/opencode-mit/fuiz/website) Support here: [Donate to Beyond Expiry](https://opencollective.com/beyond-expiry)
+
 ## File Sharing (examples: Airdrop)
 * [KDE Connect](https://kdeconnect.kde.org/) [🟢](https://invent.kde.org/network/kdeconnect-kde) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Zorin Connect](https://zorin.com/os/)<sup>[6]</sup> [🟢](https://github.com/ZorinOS?q=connect&type=all&language=&sort=) Support by improving the project!
