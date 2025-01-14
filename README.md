@@ -230,6 +230,9 @@ You can also click the circles to view the public source code repositories. In m
 TODO: GitHub would be listed on the website as having this use case.
 * [Bugzilla](https://www.bugzilla.org/) [🟢](https://github.com/bugzilla/bugzilla) Support here: [Donate to Bugzilla](https://liberapay.com/bugzilla/)
 
+## Comic Readers (examples: Cover)
+* [Komikku](https://valos.gitlab.io/Komikku/) [🟢](https://gitlab.com/valos/Komikku) Support here: [Donate to primary dev](https://liberapay.com/valos/donate)
+
 ## Pomodoro/Productivity/Time Management (examples: Forest, Session, Toggl Track)
 * Pomatez [🟢](https://github.com/zidoro/pomatez) Support by improving the project!
 * [Goodtime](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime) [🟢](https://github.com/adrcotfas/Goodtime) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/adrcotfas)
