@@ -334,6 +334,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 
 ## Book Tracking/Reading Tracking (examples: Goodreads)
 * Openreads [🟢](https://github.com/mateusz-bak/openreads) Support here: [Donate to primary dev](https://github.com/sponsors/mateusz-bak)
+* [BookWyrm](https://bookwyrm.social/) [🟢](https://github.com/bookwyrm-social/bookwyrm) Support here: [Donate to BookWyrm](https://opencollective.com/bookwyrm)
 
 ## Photo and Video Management (examples: Google Photos, Apple Photos/iCloud Photos)
 TODO: I should break this up into cloud-stored solutions, and local solutions. For the website?
