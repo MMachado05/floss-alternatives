@@ -356,6 +356,7 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 * [Sync Watch](https://addons.mozilla.org/en-US/firefox/addon/syncwatch/) [🟢](https://github.com/Semro/syncwatch?tab=readme-ov-file) Support by improving the project!
 
 ## Ebook Readers (examples: Ebook Reader, Kindle, FBReader)
+* [Readest](https://readest.com/) [🟢](https://github.com/readest/readest) Support by improving the project!
 * [Myne](https://pooloftears.in/#myne) [🟢](https://github.com/Pool-Of-Tears/Myne) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Calibre](https://calibre-ebook.com/) [🟢](https://github.com/kovidgoyal/calibre) Support here: [Donate to primary dev](https://www.patreon.com/kovidgoyal)
 
