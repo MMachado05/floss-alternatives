@@ -13,6 +13,8 @@ https://wiki.linuxquestions.org/wiki/Linux_software_equivalent_to_Windows_softwa
 
 https://github.com/unicodeveloper/awesome-opensource-apps
 
+https://contribute.design/
+
 https://openwrt.org/start
 
 https://github.com/rust-lang/mdBook
