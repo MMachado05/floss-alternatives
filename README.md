@@ -168,9 +168,10 @@ You can also click the circles to view the public source code repositories. In m
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
 
-## Personal Link Aggregator (examples: LinkTree)
+## Personal Link Aggregator/Link-in-bio Tools (examples: LinkTree)
 * [LinkStack](https://linkstack.org/) [🟢](https://github.com/LinkStackOrg/LinkStack) Support here: [Donation options](https://linkstack.org/donate/)
 * LinkBoard [🟢](https://github.com/HangerThem/linkboard) Support here: [Donate to primary dev](https://github.com/sponsors/HangerThem)
+* [TeaTree](https://teatr.ee/) [🟢](https://github.com/aronlebani/teatree) Support here: [Donate to primary dev](https://www.paypal.com/donate/?hosted_button_id=WDXMN26JPFAXL)
 
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
