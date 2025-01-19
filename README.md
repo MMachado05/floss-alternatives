@@ -171,6 +171,7 @@ You can also click the circles to view the public source code repositories. In m
 ## Personal Link Aggregator/Link-in-bio Tools (examples: LinkTree)
 * [LinkStack](https://linkstack.org/) [🟢](https://github.com/LinkStackOrg/LinkStack) Support here: [Donation options](https://linkstack.org/donate/)
 * LinkBoard [🟢](https://github.com/HangerThem/linkboard) Support here: [Donate to primary dev](https://github.com/sponsors/HangerThem)
+* [LinkTaco](https://linktaco.com/) [🔴](https://git.code.netlandish.com/~netlandish/links) 
 * [TeaTree](https://teatr.ee/) [🟢](https://github.com/aronlebani/teatree) Support here: [Donate to primary dev](https://www.paypal.com/donate/?hosted_button_id=WDXMN26JPFAXL)
 
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
