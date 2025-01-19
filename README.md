@@ -293,6 +293,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 
 ## Coupon/Discount Code Aggregators (examples: Honey)
 * [BeesWax](https://chromewebstore.google.com/detail/beeswax/jngckllgocojhhnceddfpmmfcmmholap) [🟢](https://github.com/zeemouu/BeesWax/tree/main) Support by improving the project!
+* Caramel [🟢](https://github.com/DevinoSolutions/caramel/) Support by improving the project!
 
 ## Documentation / Book Writing Tools (exmaples: Retype)
 * [mdBook](https://rust-lang.github.io/mdBook/) [🟢](https://github.com/rust-lang/mdBook) Support by improving the project!
