@@ -272,6 +272,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Geary](https://wiki.gnome.org/Apps/Geary) [🟢](https://gitlab.gnome.org/GNOME/geary) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 * [Roundcube](https://roundcube.net/) [🟢](https://github.com/roundcube/roundcubemail) Support by improving the project!
 
+## Programming Exercises (examples: LeetCode)
+* [TechBlitz](https://techblitz.dev/) [🔴](https://github.com/techblitzdev/TechBlitz/)
+
 ## Habit Trackers (examples: Habitify, Streaks)
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
 * [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) [🟢](https://github.com/FriesI23/mhabit) Support here: [Donate to primary dev](https://buymeacoffee.com/d49cb87qgww)
