@@ -19,6 +19,8 @@ https://openwrt.org/start
 
 https://github.com/rust-lang/mdBook
 
+https://world.openfoodfacts.org/
+
 https://codeberg.org/SafeTwitch
 
 https://kando.menu/
