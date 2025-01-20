@@ -17,6 +17,8 @@ https://contribute.design/
 
 https://openwrt.org/start
 
+https://pluja.github.io/awesome-privacy/
+
 https://github.com/rust-lang/mdBook
 
 https://world.openfoodfacts.org/
