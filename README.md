@@ -111,6 +111,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Tiled](https://www.mapeditor.org/)<sup>[22]</sup> [🟢](https://github.com/mapeditor/tiled) Support here: [Donate to Tiled](https://opencollective.com/tiled)
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama)<sup>[21]</sup> [🟢](https://github.com/Orama-Interactive/Pixelorama) Support here: [Donate to primary dev](https://www.patreon.com/OramaInteractive)
 * [NPainter](https://mrgaturus.itch.io/npainter) [🟢](https://github.com/mrgaturus/npainter) Support here: [Donate to primary dev](https://ko-fi.com/mrgaturus)
+* [Pinta](https://www.pinta-project.com/) [🟢](https://github.com/PintaProject/Pinta) Support by improving the project!
 
 ## Photo Editing (examples: PhotoShop, Adobe Lightroom)
 * [GIMP](https://www.gimp.org/) [🟢](https://gitlab.gnome.org/GNOME/gimp) Support here: [Donate to GIMP](https://www.gimp.org/donating/)
