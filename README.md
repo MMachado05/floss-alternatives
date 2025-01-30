@@ -299,6 +299,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Picsur](https://picsur.org/) [🟢](https://github.com/CaramelFur/Picsur) Support here: [Donate to primary dev](https://github.com/sponsors/CaramelFur)
 
 ## Coupon/Discount Code Aggregators (examples: Honey)
+* [Syrup](https://joinsyrup.com/) [🟢](https://github.com/Abdallah-Alwarawreh/Syrup) Support here: [Donate to primary dev](https://ko-fi.com/HexiumDev)
 * [BeesWax](https://chromewebstore.google.com/detail/beeswax/jngckllgocojhhnceddfpmmfcmmholap) [🟢](https://github.com/zeemouu/BeesWax/tree/main) Support by improving the project!
 * Caramel [🟢](https://github.com/DevinoSolutions/caramel/) Support by improving the project!
 
