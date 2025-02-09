@@ -130,6 +130,8 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Messaging/SMS Applications (examples: iMessage, WhatsApp, Facebook Messenger)
 * [Signal](https://signal.org/) [🟢](https://github.com/signalapp) Support here: [Donate to Signal](https://signal.org/donate/)
+* [Jami](https://jami.net/) [🟢](https://github.com/savoirfairelinux) Support here: [Donate to Jami](https://jami.net/whydonate/)
+* [Threema](https://threema.ch/en/secure-messenger) [🔴](https://github.com/threema-ch)
 * [Session](https://getsession.org/) [🟢](https://github.com/oxen-io) Support here: [Donate to Oxen](https://donorbox.org/optf-donation)
 * [Berty](https://berty.tech/messenger) [🟢](https://github.com/berty/berty) Support here: [Donate to Berty](https://github.com/sponsors/berty)
 * [Briar](https://briarproject.org/) [🟢](https://code.briarproject.org/briar) Support here: [Donate to Briar](https://liberapay.com/Briar/donate)
