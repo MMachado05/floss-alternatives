@@ -107,7 +107,8 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Digital Painting (examples: Clip Studio Paint, Adobe PhotoShop, Adobe Fresco, Manga Studio, Procreate, FireAlpaca)
 * [Krita](https://krita.org/en/) [🟢](https://invent.kde.org/graphics/krita) Support here: [Krita development fund](https://fund.krita.org/)
-* [Libresprite](https://libresprite.github.io/#!/)<sup>[21]</sup> [🟢](https://github.com/LibreSprite/LibreSprite) Support here: [TO BE ADDED]
+* [PixiEditor](https://pixieditor.net/) [🟢](https://github.com/PixiEditor/PixiEditor) Support here: [Donate to PixiEditor](https://pixieditor.net/donate)
+* [Libresprite](https://libresprite.github.io/#!/)<sup>[21]</sup> [🟢](https://github.com/LibreSprite/LibreSprite) Support here: [Donate to Libresprite](https://liberapay.com/LibreSprite/)
 * [Tiled](https://www.mapeditor.org/)<sup>[22]</sup> [🟢](https://github.com/mapeditor/tiled) Support here: [Donate to Tiled](https://opencollective.com/tiled)
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama)<sup>[21]</sup> [🟢](https://github.com/Orama-Interactive/Pixelorama) Support here: [Donate to primary dev](https://www.patreon.com/OramaInteractive)
 * [NPainter](https://mrgaturus.itch.io/npainter) [🟢](https://github.com/mrgaturus/npainter) Support here: [Donate to primary dev](https://ko-fi.com/mrgaturus)
