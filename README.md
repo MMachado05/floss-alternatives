@@ -65,8 +65,6 @@ Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 
 https://www.mautic.org/
 
-https://github.com/markusfisch/ScreenTime
-
 And maybe [Polychromatic](https://polychromatic.app/)
 ***
 
@@ -117,6 +115,11 @@ You can also click the circles to view the public source code repositories. In m
 ## Photo Editing (examples: PhotoShop, Adobe Lightroom)
 * [GIMP](https://www.gimp.org/) [🟢](https://gitlab.gnome.org/GNOME/gimp) Support here: [Donate to GIMP](https://www.gimp.org/donating/)
 * [Darktable](https://www.darktable.org/) [🟢](https://github.com/darktable-org/darktable) Support by improving the project!
+
+## Screen Break Managers (examples: Apple Screen Time, Screen Time Guardian)
+* [Stretchly](https://hovancik.net/stretchly/) [🟢](https://github.com/hovancik/stretchly) Support here: [Donate to primary dev](https://patreon.com/hovancik)
+* ScreenTime [🟢](https://github.com/markusfisch/ScreenTime) Support here: [Donate to primary dev](https://liberapay.com/markusfisch/) (ANDROID ONLY)
+* [Workrave](https://workrave.org/) [🟢](https://github.com/rcaelers/workrave) Support by improving the project!
 
 ## Group Messaging Applications (examples: Discord, Slack)
 * [Revolt](https://revolt.chat/) [🟢](https://github.com/revoltchat) Support here: [Primary dev](https://insrt.uk/donate)
