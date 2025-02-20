@@ -153,6 +153,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Design Prototyping (examples: Figma)
 * [Penpot](https://penpot.app/) [🟢](https://github.com/penpot)<sup>[5]</sup> Support by improving the project!
 
+## Torrent Clients (examples: uTorrent)
+* [qBitTorrent](https://www.qbittorrent.org/) [🟢](https://github.com/qbittorrent/qBittorrent) Support here: [Donation options](https://www.qbittorrent.org/donate)
+
 # Quiz Game Creators (examples: Kahoot)
 * [Fuiz](https://fuiz.us/) [🟢](https://gitlab.com/opencode-mit/fuiz/website) Support here: [Donate to Beyond Expiry](https://opencollective.com/beyond-expiry)
 
