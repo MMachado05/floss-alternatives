@@ -172,6 +172,10 @@ You can also click the circles to view the public source code repositories. In m
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Collabora Online Development Edition](https://www.collaboraoffice.com/code/) [🔴](https://github.com/CollaboraOnline)
 
+## Password Managers (examples: NordPass, LastPass, 1Password)
+* [BitWarden](https://bitwarden.com/) [🔴](https://github.com/bitwarden)
+* [ProtonPass](https://proton.me/pass) [🔴](https://github.com/ProtonPass)
+
 ## Website Analytics (examples: Google Analytics)
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
 
