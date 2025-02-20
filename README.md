@@ -389,6 +389,7 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 
 ## News Readers/RSS Readers (examples: Apple News, Feedly)
 * [Newsflash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) [🟢](https://gitlab.com/news-flash/news_flash_gtk) Support by improving the project!
+* [NewsBlur](https://www.newsblur.com/) [🔴](https://github.com/samuelclay/NewsBlur)
 * RSS Guard [🟢](https://github.com/martinrotter/rssguard) Support here: [Donate to primary dev])(https://liberapay.com/martinrotter)
 
 ## Resume Builders (examples: Canva, NovoResume, Zety)
