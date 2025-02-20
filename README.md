@@ -187,6 +187,9 @@ You can also click the circles to view the public source code repositories. In m
 * [LinkTaco](https://linktaco.com/) [🔴](https://git.code.netlandish.com/~netlandish/links) 
 * [TeaTree](https://teatr.ee/) [🟢](https://github.com/aronlebani/teatree) Support here: [Donate to primary dev](https://www.paypal.com/donate/?hosted_button_id=WDXMN26JPFAXL)
 
+## Video Players (examples: Windows Media Player, QuickTime Player)
+* [VLC](https://www.videolan.org/vlc/) [🟢](https://www.videolan.org/vlc/) Support here: [Donate to VideoLAN Organization](https://www.videolan.org/contribute.html#money)
+
 ## Text/Document Editors (examples: Microsoft Word, Google Docs)
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
