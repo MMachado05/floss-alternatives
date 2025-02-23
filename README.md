@@ -91,6 +91,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Shotcut](https://shotcut.org/) [🟢](https://github.com/mltframework/shotcut) Support by improving the project!
 * [Flowblade](https://jliljebl.github.io/flowblade/) [🟢](https://github.com/jliljebl/flowblade) Support by improving the project!
 * [OpenShot](https://www.openshot.org/) [🟢](https://github.com/OpenShot/openshot-qt) Support here: [Donate to primary dev](https://www.patreon.com/join/openshot)
+* [Cinelerra GG Infinity](https://www.cinelerra-gg.org/) [🟢](https://git.cinelerra-gg.org/git/?p=goodguy/cinelerra.git;a=summary) Support by [improving the project!](https://www.cinelerra-gg.org/get-involved/)
 * [LosslessCut](https://mifi.no/losslesscut/) [🟢](https://github.com/mifi/lossless-cut) Support here: [Donate to primary dev](https://github.com/sponsors/mifi)
 * [Pitivi](https://www.pitivi.org/) [🟢](https://gitlab.gnome.org/GNOME/pitivi) Support here: [Donate to Pitivi](https://liberapay.com/Pitivi/)
 * [Olive](https://www.olivevideoeditor.org/) [🟢](https://github.com/olive-editor/olive) Support here: [Donate to Olive](https://www.patreon.com/olivevideoeditor)
