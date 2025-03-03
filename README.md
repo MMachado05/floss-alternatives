@@ -13,6 +13,8 @@ https://wiki.linuxquestions.org/wiki/Linux_software_equivalent_to_Windows_softwa
 
 https://github.com/unicodeveloper/awesome-opensource-apps
 
+https://reddit.nerdvpn.de/r/selfhosted/comments/1izn1lf/hitchhikers_guide_to_accessing_your_services/
+
 https://contribute.design/
 
 https://openwrt.org/start
