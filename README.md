@@ -231,6 +231,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Video Conferencing (examples: Zoom, Google Meet, Microsoft Teams)
 * [Jitsi](https://meet.jit.si/) [🔴](https://github.com/jitsi/jitsi-meet)
+* [OpenTalk](https://opentalk.eu/en) [🔴](https://gitlab.opencode.de/opentalk)
 
 ## Self-Publishing Articles/Simple Blogging (examples: Medium)
 * [WriteFreely](https://writefreely.org/) [🟢](https://github.com/writefreely/writefreely) Support here: [Donate to WriteFreely](https://opencollective.com/writefreely#support)
@@ -479,6 +480,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Inkscape](https://inkscape.org/) [🟢](https://gitlab.com/inkscape/inkscape) Support here: [Donate to The Inkscape Fund](https://inkscape.org/support-us/donate/)
 
 ## Remote File Hosting/Cloud Hosting (examples: OneDrive, Google Drive, Dropbox)
+* [OpenCloud](https://opencloud.eu/en) [🟢](https://github.com/opencloud-eu) Support by improving the project!
 * [NextCloud](https://nextcloud.com/) [🔴](https://github.com/nextcloud)
 * [myCloud](https://mydrive-storage.com/) [🟢](https://github.com/subnub/myDrive) Support by improving the project!
 * [OwnCloud](https://owncloud.com/) [🔴](https://github.com/owncloud)
