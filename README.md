@@ -37,6 +37,8 @@ https://codehiddenlanguage.com/Chapter00/
 
 https://github.com/monkeytypegame/monkeytype (didn't know MonkeyType was GPLv3 licensed.)
 
+https://github.com/tchx84/Gameeky
+
 https://www.opensourcealternative.to
 
 https://twenty.com/oss-friends (and then it's a rabbithole of interesting software from here)
