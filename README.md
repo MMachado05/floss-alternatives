@@ -192,6 +192,9 @@ You can also click the circles to view the public source code repositories. In m
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
 
+## Digital Swiss Army Knives (examples: PowerToys)
+* [OmniTools](https://omnitools.netlify.app/) [🟢](https://github.com/iib0011/omni-tools) Support here: [Donate to primary dev](https://buymeacoffee.com/iib0011)
+
 ## Personal Link Aggregator/Link-in-bio Tools (examples: LinkTree)
 * [LinkStack](https://linkstack.org/) [🟢](https://github.com/LinkStackOrg/LinkStack) Support here: [Donation options](https://linkstack.org/donate/)
 * LinkBoard [🟢](https://github.com/HangerThem/linkboard) Support here: [Donate to primary dev](https://github.com/sponsors/HangerThem)
