@@ -126,6 +126,9 @@ You can also click the circles to view the public source code repositories. In m
 * ScreenTime [🟢](https://github.com/markusfisch/ScreenTime) Support here: [Donate to primary dev](https://liberapay.com/markusfisch/) (ANDROID ONLY)
 * [Workrave](https://workrave.org/) [🟢](https://github.com/rcaelers/workrave) Support by improving the project!
 
+## Reverse Proxy Tunneling (examples: CloudFlare Tunnel)
+* [Pangolin](https://docs.fossorial.io/overview) [🟢](https://github.com/fosrl/pangolin) Support here: [Donate to Fossorial](https://github.com/sponsors/fosrl)
+
 ## Group Messaging Applications (examples: Discord, Slack)
 * [Revolt](https://revolt.chat/) [🟢](https://github.com/revoltchat) Support here: [Primary dev](https://insrt.uk/donate)
 * [Spacebar](https://spacebar.chat/)<sup>[9]</sup> [🟢](https://github.com/spacebarchat) Support here: [Donate to Spacebar](https://opencollective.com/spacebar)
