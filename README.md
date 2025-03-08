@@ -447,8 +447,9 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
 * [Crab Fit](https://crab.fit/) [🟢](https://github.com/GRA0007/crab.fit) Support here: [Donate to primary dev](https://ko-fi.com/benpai)
 
-## Game Engines (examples: Unity, Unreal Engine)
+## Game Engines (examples: Unity, Unreal Engine, RPGMaker)
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
+* [Solarus](https://solarus-games.org/) [🟢](https://gitlab.com/solarus-games) Support here: [Donate to Solarus Labs](https://www.paypal.com/paypalme/solaruslabs)
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
 * [Fyrox](https://fyrox.rs/) [🟢](https://github.com/FyroxEngine/Fyrox) Support here: [Donate to primary dev](https://boosty.to/fyrox)
 * [Flax Engine](https://flaxengine.com/) [🔴](https://github.com/FlaxEngine/FlaxEngine)<sup>[24]</sup>
