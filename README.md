@@ -31,6 +31,8 @@ https://kando.menu/
 
 https://thanks.dev/
 
+https://goodfirstissue.dev/
+
 https://usebottles.com/
 
 https://indieweb.org/
