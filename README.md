@@ -1,6 +1,17 @@
 # Opening software back up to the people, one install at a time!
 
+### The actual list doesn't start until a little further down. I'm using the top of this list as a sort of "junk drawer" of projects, sources, etc. that align with my higher-level "goals" in creating this list, and that part is mostly for me! If you want to peruse, be my guest, but be warned that there is no organization to speak of whatsoever in this beginner section of the repo.
+
 ***
+
+## Other lists like this one
+
+https://github.com/mustbeperfect/definitive-opensource
+
+https://github.com/An-anonymous-coder/Open-Source-Everything
+
+***
+
 Note to self: [this](https://opensourcesoftwaredirectory.com/about) seems like a cool place to collect more apps!
 
 Also: eventually, I should separate out the projects that only provide front-ends for other projects, like Grayjay and the like. Since these do, honestly, provide a very different product than things like PeerTube.
