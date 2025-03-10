@@ -237,6 +237,7 @@ You can also click the circles to view the public source code repositories. In m
 * NetBird (need to add info later)
 
 ## Budgeting (examples: NerdWallet, EveryDollar)
+* [Firefly III](https://www.firefly-iii.org/) [🟢](https://github.com/firefly-iii/firefly-iii/) Support here: [Donate to primary dev](https://ko-fi.com/jamesc5)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
 * [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
 * [Cashew](https://cashewapp.web.app/) [🟢](https://github.com/jameskokoska/Cashew) Support by improving the project!
@@ -443,6 +444,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Affine](https://affine.pro) [🔴](https://github.com/toeverything/AFFiNE)
 * [SiYuan](https://b3log.org/siyuan/en/) [🟢](https://github.com/siyuan-note/siyuan) Support here: [Donate to primary dev (website in Mandarin)](https://ld246.com/sponsor)
 * Rhyolite [🟢](https://github.com/rhyolite-org/rhyolite) Support by improving the project!
+* [Blinko](https://blinko.koyeb.app/) [🟢](https://github.com/blinko-space/blinko) Support here: [Donate to Blinko](https://ko-fi.com/blinkospace)
 * [Rnote](https://rnote.flxzt.net/) [🟢](https://github.com/flxzt/rnote) Support here: [Donate to primary dev](https://github.com/sponsors/flxzt)
 * [Trilium](https://github.com/zadam/trilium?tab=readme-ov-file) [🟢](https://github.com/zadam/trilium) Support here: [Donate to primary dev](https://github.com/sponsors/zadam)
 * [Notesnook](https://notesnook.com/) [🔴](https://github.com/streetwriters/notesnook)
