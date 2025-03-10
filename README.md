@@ -134,6 +134,11 @@ You can also click the circles to view the public source code repositories. In m
 * [GIMP](https://www.gimp.org/) [🟢](https://gitlab.gnome.org/GNOME/gimp) Support here: [Donate to GIMP](https://www.gimp.org/donating/)
 * [Darktable](https://www.darktable.org/) [🟢](https://github.com/darktable-org/darktable) Support by improving the project!
 
+## Link Shortener (examples: Bitly, TinyURL, ShortURL)
+* [Yourls](https://yourls.org/) [🟢](https://github.com/YOURLS/YOURLS) Support here: [Donate to Yourls](https://opencollective.com/yourls)
+* [Kutt](https://kutt.it/) [🔴](https://github.com/thedevs-network/kutt)
+* [Krtk](https://krtk.ee/) [🟢](https://github.com/ajarmoszuk/krtk) Support by improving the project!
+
 ## Screen Break Managers (examples: Apple Screen Time, Screen Time Guardian)
 * [Stretchly](https://hovancik.net/stretchly/) [🟢](https://github.com/hovancik/stretchly) Support here: [Donate to primary dev](https://patreon.com/hovancik)
 * ScreenTime [🟢](https://github.com/markusfisch/ScreenTime) Support here: [Donate to primary dev](https://liberapay.com/markusfisch/) (ANDROID ONLY)
