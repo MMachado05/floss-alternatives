@@ -209,8 +209,12 @@ You can also click the circles to view the public source code repositories. In m
 * [Slax](https://r.slax.com/en) [🟢](https://github.com/slax-lab/slax-reader) Support by improving the project!
 
 ## Password Managers (examples: NordPass, LastPass, 1Password)
+* [AliasVault](https://www.aliasvault.net/) [🟢](https://github.com/lanedirt/AliasVault) Support by improving the project!
 * [BitWarden](https://bitwarden.com/) [🔴](https://github.com/bitwarden)
 * [ProtonPass](https://proton.me/pass) [🔴](https://github.com/ProtonPass)
+
+## Email Aliases (examples: Apple Email Aliases, SimleLogin, Addy.io)
+* [AliasVault](https://www.aliasvault.net/) [🟢](https://github.com/lanedirt/AliasVault) Support by improving the project!
 
 ## Website Analytics (examples: Google Analytics)
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
