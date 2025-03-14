@@ -200,6 +200,9 @@ You can also click the circles to view the public source code repositories. In m
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Collabora Online Development Edition](https://www.collaboraoffice.com/code/) [🔴](https://github.com/CollaboraOnline)
 
+## Read-it-later (examples: Pocket, Instapaper)
+* [Slax](https://r.slax.com/en) [🟢](https://github.com/slax-lab/slax-reader) Support by improving the project!
+
 ## Password Managers (examples: NordPass, LastPass, 1Password)
 * [BitWarden](https://bitwarden.com/) [🔴](https://github.com/bitwarden)
 * [ProtonPass](https://proton.me/pass) [🔴](https://github.com/ProtonPass)
