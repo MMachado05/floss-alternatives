@@ -512,6 +512,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [OpenCloud](https://opencloud.eu/en) [🟢](https://github.com/opencloud-eu) Support by improving the project!
 * [NextCloud](https://nextcloud.com/) [🔴](https://github.com/nextcloud)
 * [myCloud](https://mydrive-storage.com/) [🟢](https://github.com/subnub/myDrive) Support by improving the project!
+* [myDrive](https://mydrive-storage.com/) [🟢](https://github.com/subnub/myDrive) Support by improving the project!
 * [OwnCloud](https://owncloud.com/) [🔴](https://github.com/owncloud)
 
 ## Online code playgrounds (examples: repl.it)
