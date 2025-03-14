@@ -329,6 +329,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [Geary](https://wiki.gnome.org/Apps/Geary) [🟢](https://gitlab.gnome.org/GNOME/geary) Support here: [Donate to the GNOME Foundation](https://www.gnome.org/donate/)
 * [Roundcube](https://roundcube.net/) [🟢](https://github.com/roundcube/roundcubemail) Support by improving the project!
 
+## Flight Simulators (examples: Microsoft Flight Simulator)
+* [FlightGear](https://www.flightgear.org/) [🟢](https://gitlab.com/flightgear/flightgear) Support by improving the project!
+
 ## Programming Exercises (examples: LeetCode)
 * [TechBlitz](https://techblitz.dev/) [🔴](https://github.com/techblitzdev/TechBlitz/)
 
