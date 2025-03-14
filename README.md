@@ -83,6 +83,11 @@ Also, [Live Captions](https://flathub.org/apps/net.sapples.LiveCaptions)
 https://www.mautic.org/
 
 And maybe [Polychromatic](https://polychromatic.app/)
+
+### Public Library Entertainment alternatives:
+* Music: Freegal
+* Movies & Shows: Kanopy
+
 ***
 
 This gist serves as a place to find free & libre open-source alternatives to various proprietary softwares. I'll be organizing it such that anyone looking for a FLOSS alternative to some piece of software they use should be relatively easy to find.
