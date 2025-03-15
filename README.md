@@ -420,6 +420,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 
 ## Online Dating (examples: eHarmony, Tinder, Hinge, Bumble)
 * [Alovoa](https://alovoa.com/) [🟢](https://github.com/Alovoa/alovoa) Support here: [Donate to Alovoa](https://alovoa.com/donate-list)
+* [RetroMeet](https://join.retromeet.social/) [🟢](https://github.com/retromeet/core) Support by improving the project!
 
 ## Inventory management (examples: Sortly, HomeZada)
 * [Snipe-IT](https://snipeitapp.com/) [🔴](https://github.com/snipe/snipe-it)
