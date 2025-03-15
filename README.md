@@ -266,6 +266,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Jubler](https://www.jubler.org/index.html) [🟢](https://github.com/teras/Jubler) Support here: [Donate to Jubler](https://www.jubler.org/donations.html)
 
+## Tax Filing (examples: H&R Block, TurboTax)
+* [Open Tax Solver](https://opentaxsolver.sourceforge.net/) [🟢](https://opentaxsolver.sourceforge.net/download2024.html?button=+Download+OTS+) (available in downloads) Support here: [Donate to Open Tax Solver fund](https://please-fund-me.com/cgi-bin/render_fund_page.cgi?fund=67)
+
 ## Journaling/Diary (examples: Apple Journal, stoic, Day One)
 * [EasyDiary](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary&hl=en_GB) [🟢](https://github.com/hanjoongcho/aaf-easydiary) Support here: [Donate to primary dev](https://github.com/sponsors/hanjoongcho)
 
