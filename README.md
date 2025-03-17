@@ -468,6 +468,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
 * [Simplenote](https://simplenote.com/) [🔴](https://github.com/Automattic/simplenote-electron)
 * [Affine](https://affine.pro) [🔴](https://github.com/toeverything/AFFiNE)
+* [Docs](https://docs.numerique.gouv.fr/login/) [🟢](https://github.com/suitenumerique/docs) Support by improving the project!
 * [SiYuan](https://b3log.org/siyuan/en/) [🟢](https://github.com/siyuan-note/siyuan) Support here: [Donate to primary dev (website in Mandarin)](https://ld246.com/sponsor)
 * Rhyolite [🟢](https://github.com/rhyolite-org/rhyolite) Support by improving the project!
 * [Blinko](https://blinko.koyeb.app/) [🟢](https://github.com/blinko-space/blinko) Support here: [Donate to Blinko](https://ko-fi.com/blinkospace)
