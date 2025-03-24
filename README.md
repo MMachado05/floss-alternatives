@@ -253,6 +253,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
 
+## PC Component Cooling (examples: Corsair iCUE)
+* [CoolerControl](https://docs.coolercontrol.org/) [🟢](https://gitlab.com/coolercontrol/coolercontrol) Support by improving the project!
+
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [Firefly III](https://www.firefly-iii.org/) [🟢](https://github.com/firefly-iii/firefly-iii/) Support here: [Donate to primary dev](https://ko-fi.com/jamesc5)
 * [GreenStash](https://pooloftears.in/#greenStash) [🟢](https://github.com/Pool-Of-Tears/GreenStash) Support here: [Donate to primary dev](https://github.com/sponsors/starry-shivam)
