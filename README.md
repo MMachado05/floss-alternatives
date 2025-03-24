@@ -262,6 +262,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en_US&pli=1) [🟢](https://github.com/h4h13/Paisa) Support here: [Donate to primary dev](https://www.buymeacoffee.com/h4h13)
 * [Cashew](https://cashewapp.web.app/) [🟢](https://github.com/jameskokoska/Cashew) Support by improving the project!
 * ExpenseOwl [🟢](https://github.com/tanq16/expenseowl) Support by improving the project!
+* DollarDollar [🟢](https://github.com/harung1993/dollardollar) Support here: [Donate to primary dev](https://buymeacoffee.com/ccfw6gzz28)
 * [Monekin](https://play.google.com/store/apps/details?id=com.monekin.app) [🟢](https://github.com/enrique-lozano/Monekin) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/lozanoelc?locale.x=en_US)
 
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
