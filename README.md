@@ -634,8 +634,12 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 * [Coolify](https://coolify.io/) [🟢](https://github.com/coollabsio/coolify)
 
 ***
-## Programs I have yet to find viable open-source options for (I urge those capable of doing so to start a project!):
-* x
+
+## Personal Archiving Tools
+* [Export Discord chats and channels into HTML files](https://github.com/Tyrrrz/DiscordChatExporter)
+* [Export iMessage history into HTML files](https://github.com/ReagentX/imessage-exporter)
+* [Self-host an archive of your Instagram post history](https://github.com/greg-randall/memento-mori)
+
 
 ***
 ## The following applications were deliberately left out due to a personal assessment that they are not viable projects. I am open to changing my assessments of these.
