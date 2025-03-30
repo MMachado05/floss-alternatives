@@ -123,7 +123,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Maps and Navigation (examples: Google Maps, Apple Maps, Waze)
 * [OpenStreetMap](https://www.openstreetmap.org/)<sup>[27]</sup> [🟢](https://github.com/openstreetmap/) Support here: [Donate to OpenStreetMap Foundation](https://supporting.openstreetmap.org/donate/)
-* [Organic Maps](https://organicmaps.app/) [🟢](https://github.com/organicmaps/organicmaps) Support here: [Donate to Organic Maps](https://opencollective.com/organicmaps)<sup>[28]</sup>
+* [Organic Maps](https://organicmaps.app/) [🟢](https://git.omaps.dev/organicmaps/organicmaps) Support here: [Donate to Organic Maps](https://opencollective.com/organicmaps)<sup>[28]</sup>
 * [OsmAnd](https://osmand.net/) [🔴](https://github.com/osmandapp/)
 
 ## Digital Painting (examples: Clip Studio Paint, Adobe PhotoShop, Adobe Fresco, Manga Studio, Procreate, FireAlpaca)
@@ -583,6 +583,9 @@ Specifically, I should probably look into what can be self-hosted and what can't
 Linux or FreeBSD. This is a rabbit hole, so I'll let you do your own digging. Word to the wise; the desktop environment will matter a lot more to the layman than anything else (you're looking for keywords like "Cinnamon," "KDE," "GNOME," "Xfce," "Mate," and a few others.)
 
 ## Code Editing (examples: Sublime, Cursor)
+
+TODO: Break this up into text editors and IDEs, something for the website.
+
 * [VSCode](https://code.visualstudio.com/) [🔴](https://github.com/microsoft/vscode)
 * [VSCodium](https://vscodium.com/) [🟢](https://github.com/VSCodium/vscodium) Support by improving the project!
 * [Neovim](https://neovim.io/) [🟢](https://github.com/neovim/neovim) Support here: [Donate to Neovim](https://opencollective.com/neovim)
