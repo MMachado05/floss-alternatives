@@ -537,6 +537,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 ## Remote File Hosting/Cloud Hosting (examples: OneDrive, Google Drive, Dropbox)
 * [OpenCloud](https://opencloud.eu/en) [🟢](https://github.com/opencloud-eu) Support by improving the project!
 * [NextCloud](https://nextcloud.com/) [🔴](https://github.com/nextcloud)
+* [OxiCloud](https://github.com/DioCrafts/OxiCloud) [🟢](https://github.com/DioCrafts/OxiCloud) Support by improving the project!
 * [Seafile](https://www.seafile.com/en/home/) [🔴](https://github.com/haiwen/seafile)
 * [myDrive](https://mydrive-storage.com/) [🟢](https://github.com/subnub/myDrive) Support by improving the project!
 * [OwnCloud](https://owncloud.com/) [🔴](https://github.com/owncloud)
