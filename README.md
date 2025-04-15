@@ -144,6 +144,11 @@ You can also click the circles to view the public source code repositories. In m
 * [Kutt](https://kutt.it/) [🔴](https://github.com/thedevs-network/kutt)
 * [Krtk](https://krtk.ee/) [🟢](https://github.com/ajarmoszuk/krtk) Support by improving the project!
 
+## Drive/Data Backups (examples: ShadowProtect SPX Desktop, IDrive, macOS Time Machine)
+* [PikaBackup](https://apps.gnome.org/PikaBackup/) [🟢](https://gitlab.gnome.org/World/pika-backup) Support here: [Donate to Pika Backup](https://opencollective.com/pika-backup)
+* [Déjà Dup Backups](https://apps.gnome.org/DejaDup/) [🟢](https://gitlab.gnome.org/World/deja-dup) Support here: [Donate to Déjà Dup Backups](https://liberapay.com/DejaDup)
+* [Timeshift](https://github.com/linuxmint/timeshift) [🟢](https://github.com/linuxmint/timeshift) Support here: [Donate to Linux Mint](https://www.linuxmint.com/donors.php)
+
 ## Screen Break Managers (examples: Apple Screen Time, Screen Time Guardian)
 * [Stretchly](https://hovancik.net/stretchly/) [🟢](https://github.com/hovancik/stretchly) Support here: [Donate to primary dev](https://patreon.com/hovancik)
 * ScreenTime [🟢](https://github.com/markusfisch/ScreenTime) Support here: [Donate to primary dev](https://liberapay.com/markusfisch/) (ANDROID ONLY)
