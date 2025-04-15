@@ -550,6 +550,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Seafile](https://www.seafile.com/en/home/) [🔴](https://github.com/haiwen/seafile)
 * [myDrive](https://mydrive-storage.com/) [🟢](https://github.com/subnub/myDrive) Support by improving the project!
 * [OwnCloud](https://owncloud.com/) [🔴](https://github.com/owncloud)
+* [Filen](https://filen.io/) [🔴](https://github.com/FilenCloudDienste)
 
 ## Online code playgrounds (examples: repl.it)
 * [Riju](https://riju.codes/) [🟢](https://github.com/radian-software/riju) Support here: [Donate to Radian Software](https://www.patreon.com/radiansoftware)
