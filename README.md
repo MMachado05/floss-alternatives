@@ -429,6 +429,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
 
 ## Nutrition trackers (examples: MyFitnessPal, MyNetDiary)
+* [Nutrition Tracker](https://github.com/varun2407/nutrition_tracker) [🟢](https://github.com/varun2407/nutrition_tracker) Support by improving the project!
 * [wger](https://wger.de/en/software/features) [🟢](https://github.com/wger-project) Support here: [Donate to wger](https://buymeacoffee.com/wger)
 
 ## Online Dating (examples: eHarmony, Tinder, Hinge, Bumble)
