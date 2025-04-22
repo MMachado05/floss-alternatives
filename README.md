@@ -370,6 +370,7 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 
 ## Learning Management Systems (examples: Blackboard)
 * [Canvas](https://www.instructure.com/canvas) [🔴](https://github.com/instructure/canvas-lms)
+* [Moodle](https://github.com/moodle/moodle) [🟢](https://github.com/moodle/moodle) Support here: [Donate to Moodle](https://moodle.com/donations/)
 
 ## Financial Investment Trackers (exmaples: Ziggma)
 * [Portfolio Performance](https://www.portfolio-performance.info/en/) [🟢](https://github.com/portfolio-performance/portfolio) Support here: [Donate to primary server maintainer](https://github.com/sponsors/tfabritius)
