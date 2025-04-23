@@ -274,6 +274,9 @@ You can also click the circles to view the public source code repositories. In m
 * [Monekin](https://play.google.com/store/apps/details?id=com.monekin.app) [🟢](https://github.com/enrique-lozano/Monekin) Support here: [Donate to primary dev](https://www.paypal.com/paypalme/lozanoelc?locale.x=en_US)
 * [SparkyBudget](https://github.com/CodeWithCJ/SparkyBudget) [🟢](https://github.com/CodeWithCJ/SparkyBudget) Support by improving the project!
 
+## Location Sharing (examples: Find My Friends)
+* [Grid](https://mygrid.app/) [🟢](https://github.com/Rezivure/Grid-Mobile) Support by improving the project!
+
 ## Subtitle Editing (examples: Movavi Video Editor, Typito, POP Subtitle Editor, Kapwing)
 * Aegisub (arch1te3ct's flavor)<sup>[30]</sup> [🟢](https://github.com/arch1t3cht/Aegisub/tree/feature_11) Support by improving the project!
 * [Subtitle Composer](https://subtitlecomposer.kde.org/) [🟢](https://invent.kde.org/multimedia/subtitlecomposer) Support here: [Donate to KDE](https://kde.org/community/donations/)
