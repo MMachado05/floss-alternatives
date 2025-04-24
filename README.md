@@ -213,6 +213,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Read-it-later (examples: Pocket, Instapaper)
 * [Slax](https://r.slax.com/en) [🟢](https://github.com/slax-lab/slax-reader) Support by improving the project!
 
+## Baby Registries (examples: Amazon Baby Registry)
+* [Owlkins](https://owlkins.com/) [🟢](https://gitlab.com/owlkins/owlkins) Support by improving the project!
+
 ## Password Managers (examples: NordPass, LastPass, 1Password)
 * [KeePassXC](https://keepassxc.org/) [🟢](https://github.com/keepassxreboot/keepassxc) Support here: [Donate to KeePassXC](https://keepassxc.org/donate/)
 * [AliasVault](https://www.aliasvault.net/) [🟢](https://github.com/lanedirt/AliasVault) Support by improving the project!
