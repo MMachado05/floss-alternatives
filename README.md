@@ -230,6 +230,7 @@ You can also click the circles to view the public source code repositories. In m
 * [AliasVault](https://www.aliasvault.net/) [🟢](https://github.com/lanedirt/AliasVault) Support by improving the project!
 
 ## Website Analytics (examples: Google Analytics)
+* [Rybbit Analytics](https://www.rybbit.io/) [🔴](https://github.com/rybbit-io/rybbit)
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
 
 ## Newsletters and Email Marketing (examples: Intuit Mailchimp)
