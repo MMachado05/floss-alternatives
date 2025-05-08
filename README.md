@@ -555,6 +555,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 ## Diagram and Flowchart Creation/Digital Whiteboards (examples: Lucidchart, eraser.io)
 * [Excalidraw](https://excalidraw.com/) [🔴](https://github.com/excalidraw/excalidraw)
 * [Flowchart.fun](https://flowchart.fun/) [🔴](https://github.com/tone-row/flowchart-fun)
+* [Drawio](https://www.drawio.com/) [🟢](https://github.com/jgraph/drawio-desktop) Support by improving the project!
 * [Openboard](https://openboard.ch/index.en.html) [🟢](https://github.com/OpenBoard-org/OpenBoard) Support by improving the project!
 
 ## Vector Graphics (examples: Adobe Illustrator)
