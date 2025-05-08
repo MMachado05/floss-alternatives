@@ -232,6 +232,7 @@ You can also click the circles to view the public source code repositories. In m
 ## Website Analytics (examples: Google Analytics)
 * [Rybbit Analytics](https://www.rybbit.io/) [🔴](https://github.com/rybbit-io/rybbit)
 * [Plausible Analytics](https://plausible.io/) [🔴](https://github.com/plausible/analytics)
+* [Umami Analytics](https://umami.is/) [🔴](https://github.com/umami-software/umami)
 
 ## Newsletters and Email Marketing (examples: Intuit Mailchimp)
 * [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Donate to Pentacent](https://github.com/sponsors/pentacent)
