@@ -634,7 +634,8 @@ TODO: Break this up into text editors and IDEs, something for the website.
 * [NewPipe (YT client, ANDROID ONLY)](https://newpipe.net/) [🟢](https://github.com/TeamNewPipe/NewPipe/) Support here: [Donate to NewPipe](https://liberapay.com/TeamNewPipe/)
 * [LibreTube (YT client, ANDROID ONLY)](https://libretube.dev/) [🟢](https://github.com/libre-tube/LibreTube) Support here: [Donate to primary dev](https://liberapay.com/Bnyro)
 
-## Git Clients (examples: GitKraken)
+## Git Clients/Git Frontends (examples: GitKraken, Tower, SmartGit, Glint)
+* [LazyGit](https://github.com/jesseduffield/lazygit) [🟢](https://github.com/jesseduffield/lazygit) Support here: [Donate to LazyGit](https://donorbox.org/lazygit)
 * [GitHub Desktop](https://desktop.github.com/) [🔴](https://github.com/desktop/desktop)
 * [GitButler](https://gitbutler.com/) [🔴](https://github.com/gitbutlerapp/gitbutler)
 
