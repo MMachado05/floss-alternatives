@@ -469,8 +469,9 @@ TODO: I should break this up into cloud-stored solutions, and local solutions. F
 * [Aves Libre (ANDROID ONLY)](https://play.google.com/store/apps/details?id=deckers.thibault.aves&pli=1) [🟢](https://github.com/deckerst/aves) Support here: [Donate to primary dev](https://liberapay.com/deckerst)
 * [Fossify Gallery (ANDROID ONLY)](https://f-droid.org/en/packages/org.fossify.gallery/) [🟢](https://github.com/FossifyOrg/Gallery) Support here: [Donate to primary dev](https://www.patreon.com/naveen3singh)
 
-## E-Commerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
+## E-Commerce/eCommerce Platforms/Tools (examples: Shopify, Shogun, BigCommerce)
 * [Medusa](https://medusajs.com/)<sup>[10]</sup> [🟢](https://github.com/medusajs/medusa)<sup>[11]</sup> Support here: [Donate to Medusa](https://github.com/sponsors/medusajs)
+* [PrestaShop](https://prestashop.com/) [🔴](https://github.com/PrestaShop/PrestaShop)
 
 ## Synchronized Group Video Playback (examples: Teleparty)
 * [Sync Watch](https://addons.mozilla.org/en-US/firefox/addon/syncwatch/) [🟢](https://github.com/Semro/syncwatch?tab=readme-ov-file) Support by improving the project!
