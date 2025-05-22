@@ -272,6 +272,9 @@ You can also click the circles to view the public source code repositories. In m
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
 
+## Union Organizing Tools (examples: UnionWire, UnionConnect)
+* [Organize](https://getorganize.app/) [🔴](https://github.com/High5Apps/organize-backend)
+
 ## PC Component Cooling (examples: Corsair iCUE)
 * [CoolerControl](https://docs.coolercontrol.org/) [🟢](https://gitlab.com/coolercontrol/coolercontrol) Support by improving the project!
 
