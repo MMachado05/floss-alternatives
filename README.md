@@ -275,8 +275,13 @@ You can also click the circles to view the public source code repositories. In m
 ## Union Organizing Tools (examples: UnionWire, UnionConnect)
 * [Organize](https://getorganize.app/) [🔴](https://github.com/High5Apps/organize-backend)
 
-## PC Component Cooling (examples: Corsair iCUE)
+## PC Component Cooling Systems (examples: Corsair iCUE)
 * [CoolerControl](https://docs.coolercontrol.org/) [🟢](https://gitlab.com/coolercontrol/coolercontrol) Support by improving the project!
+
+## Website Traffic Modulators/DDoS Protection (examples: CloudFlare)
+* [Anubis](https://anubis.techaro.lol/) [🟢](https://github.com/TecharoHQ/anubis) Support here: [Donate to primary dev](https://www.patreon.com/cadey]
+* [go-away](https://git.gammaspectra.live/git/go-away#go-away) [🟢](https://git.gammaspectra.live/git/go-away) Support by improving the project!
+* [Basedflare](https://gitgud.io/fatchan/haproxy-protection/#-basedflare-haproxy-protection) [🟢](https://gitgud.io/fatchan/haproxy-protection) Support here: [Donate to Monero to primary dev](monero:89J9DXPLUBr5HjNDNZTEo4WYMFTouSsGjUjBnUCCUxJGUirthnii4naZ8JafdnmhPe4NP1nkWsgcK82Uga7X515nNR1isuh)
 
 ## Budgeting (examples: NerdWallet, EveryDollar)
 * [Firefly III](https://www.firefly-iii.org/) [🟢](https://github.com/firefly-iii/firefly-iii/) Support here: [Donate to primary dev](https://ko-fi.com/jamesc5)
