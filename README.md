@@ -314,6 +314,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Self-Publishing Articles/Simple Blogging (examples: Medium)
 * [WriteFreely](https://writefreely.org/) [🟢](https://github.com/writefreely/writefreely) Support here: [Donate to WriteFreely](https://opencollective.com/writefreely#support)
+* [Mataroa](https://mataroa.blog/) [🔴](https://github.com/mataroa-blog/mataroa)
 
 ## Web Servers (examples: LiteSpeed)
 * nginx TODO
