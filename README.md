@@ -403,6 +403,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 * [ProtonMail](https://proton.me/mail) [🔴](https://github.com/ProtonMail)
 * [Tuta](https://tuta.com/) [🔴](https://github.com/tutao/tutanota)
 
+## Fiat Digital Payments/Electronic Payment Systems (examples: Zelle, Venmo, CashApp, Apple Pay)
+* [GNU Taler](https://www.taler.net/en/index.html) [🔴](https://git.taler.net/)
+
 ## Simple File Hosting (examples: Imgur, Pastebin)
 * [Picsur](https://picsur.org/) [🟢](https://github.com/CaramelFur/Picsur) Support here: [Donate to primary dev](https://github.com/sponsors/CaramelFur)
 
