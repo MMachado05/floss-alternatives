@@ -264,6 +264,7 @@ You can also click the circles to view the public source code repositories. In m
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
 * [AppFlowy](https://www.appflowy.io/) [🟢](https://github.com/AppFlowy-IO/AppFlowy) Support by improving the project!
 * [FocalBoard](https://www.focalboard.com/) [🔴](https://github.com/mattermost/focalboard)
+* [Kan](https://kan.bn/) [🔴](https://github.com/kanbn/kan)
 * [Taiga](https://taiga.io/) [🔴](https://github.com/taigaio/)
 * [TagSpaces](https://www.tagspaces.org/) [🔴](https://github.com/tagspaces/tagspaces)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
