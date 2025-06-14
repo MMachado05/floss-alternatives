@@ -273,6 +273,10 @@ You can also click the circles to view the public source code repositories. In m
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
 
+## Personal Computer Search Engines (examples: Apple Spotlight)
+* [KRunner](https://userbase.kde.org/Plasma/Krunner) [🟢](https://invent.kde.org/frameworks/krunner) Support here: [Donate to KDE](https://kde.org/community/donations/)
+* [Seeksy](https://andreasjhagen.github.io/Seeksy/) [🟢](https://github.com/andreasjhagen/Seeksy/) Support by improving the project!
+
 ## Union Organizing Tools (examples: UnionWire, UnionConnect)
 * [Organize](https://getorganize.app/) [🔴](https://github.com/High5Apps/organize-backend)
 
