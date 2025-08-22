@@ -269,6 +269,7 @@ You can also click the circles to view the public source code repositories. In m
 * [TagSpaces](https://www.tagspaces.org/) [🔴](https://github.com/tagspaces/tagspaces)
 * [Planka](https://planka.app/) [🟢](https://github.com/plankanban/planka) Support here: [Donate to primary dev](https://github.com/sponsors/meltyshev)
 * [Wekan](https://wekan.github.io/) [🟢](https://github.com/Wekan/wekan/) Support here: [Donate to Wekan](https://www.paypal.com/donate?token=K9kVwwTlggAQjirwtYxxuXWh8marLUrQTxp45aDyVJ-xskqJpg_dMrDhkTEybQVOVUxDwBrIjxRZueto)
+* [Lonewolf](https://github.com/aichingm/Lonewolf) [🟢](https://github.com/aichingm/Lonewolf) Support by improving the project!
 
 ## Mesh VPN (examples: Tailscale, ZeroTier)
 * NetBird (need to add info later)
