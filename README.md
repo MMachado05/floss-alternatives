@@ -535,7 +535,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [RustDesk](https://rustdesk.com/) [🔴](https://github.com/rustdesk/rustdesk)
 
 ## Group Scheduling (examples: when2meet, LettuceMeet, Doodle)
-* [Schej](https://schej.it/) [🟢](https://github.com/schej-it/schej.it) Support by improving the project!
+* [Timeful](https://timeful.app/) [🟢](https://github.com/schej-it/timeful.app) Support by improving the project!
 * [Crab Fit](https://crab.fit/) [🟢](https://github.com/GRA0007/crab.fit) Support here: [Donate to primary dev](https://ko-fi.com/benpai)
 
 ## Game Engines (examples: Unity, Unreal Engine, RPGMaker)
