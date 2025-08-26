@@ -669,9 +669,11 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 * [Discuit](https://discuit.net/) [🟢](https://github.com/discuitnet/discuit) Support by improving the project!
 * [Lemmy](https://join-lemmy.org/) [🟢](https://github.com/LemmyNet/lemmy) Support here: [Donate to Lemmy](https://join-lemmy.org/donate)
 
-## Version Control (examples: GitHub)
+## Git Forges (examples: GitHub)
 * [GitLab](https://about.gitlab.com/) [🔴](https://gitlab.com/gitlab-org/gitlab)
 * [Gogs](https://gogs.io/) [🟢](https://github.com/gogs/gogs) Support by improving the project!<sup>[25]</sup>
+* [Forgejo](https://forgejo.org/) [🟢](https://codeberg.org/forgejo/forgejo) Support here: [Donate to Forgejo](https://liberapay.com/forgejo)
+* [Codeberg](https://codeberg.org/) [🟢](https://codeberg.org/forgejo/forgejo) Support here: [Donate to Codeberg](https://donate.codeberg.org/)
 
 ## Planetarium/Stargazing (examples: Google Sky, Digistar, SpaceEngine)
 * [KStars](https://kstars.kde.org/) [🟢](https://github.com/KDE/kstars) Support here: [Donate to KDE](https://kde.org/community/donations/)
