@@ -20,6 +20,8 @@ Also ALSO: I think it'd be useful to link to tools that augment and enhance the 
 
 https://github.com/Mindbaz/awesome-opensource-email
 
+https://gadgeteer.co.za/opensourcesoftware/ (similar)
+
 https://wiki.linuxquestions.org/wiki/Linux_software_equivalent_to_Windows_software
 
 https://github.com/unicodeveloper/awesome-opensource-apps
