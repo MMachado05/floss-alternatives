@@ -10,6 +10,12 @@ https://github.com/mustbeperfect/definitive-opensource
 
 https://github.com/An-anonymous-coder/Open-Source-Everything
 
+https://openapps.pro
+
+https://www.opensourcealternative.to
+
+https://gadgeteer.co.za/opensourcesoftware/
+
 ***
 
 Note to self: [this](https://opensourcesoftwaredirectory.com/about) seems like a cool place to collect more apps!
@@ -19,8 +25,6 @@ Also: eventually, I should separate out the projects that only provide front-end
 Also ALSO: I think it'd be useful to link to tools that augment and enhance the experience for a couple of these apps, like wg-easy for WireGuard.
 
 https://github.com/Mindbaz/awesome-opensource-email
-
-https://gadgeteer.co.za/opensourcesoftware/ (similar)
 
 https://wiki.linuxquestions.org/wiki/Linux_software_equivalent_to_Windows_software
 
@@ -55,8 +59,6 @@ https://codehiddenlanguage.com/Chapter00/
 https://github.com/monkeytypegame/monkeytype (didn't know MonkeyType was GPLv3 licensed.)
 
 https://github.com/tchx84/Gameeky
-
-https://www.opensourcealternative.to
 
 https://twenty.com/oss-friends (and then it's a rabbithole of interesting software from here)
 
