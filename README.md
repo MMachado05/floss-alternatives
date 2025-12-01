@@ -16,6 +16,8 @@ https://www.opensourcealternative.to
 
 https://gadgeteer.co.za/opensourcesoftware/
 
+https://isitreallyfoss.com/ (sort of? Just a good resource to double-check. I really enjoy their ranking system.)
+
 ***
 
 Note to self: [this](https://opensourcesoftwaredirectory.com/about) seems like a cool place to collect more apps!
