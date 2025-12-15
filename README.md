@@ -114,15 +114,18 @@ For transparency, each of the entries listed here have been rated by the followi
 
 You can also click the circles to view the public source code repositories. In many cases, the read-only mirrors have been selected to make perusing the code easier.
 
-## Video Editing (examples: Premiere Pro, DaVinci Resolve, VEGAS Pro)
+## Video Editing (examples: Premiere Pro, DaVinci Resolve, VEGAS Pro, CapCut)
 * [Kdenlive](https://kdenlive.org/en/) [🟢](https://invent.kde.org/multimedia/kdenlive) Support here: [Kdenlive development fund](https://kdenlive.org/en/fund/)
 * [Shotcut](https://shotcut.org/) [🟢](https://github.com/mltframework/shotcut) Support by improving the project!
 * [Flowblade](https://jliljebl.github.io/flowblade/) [🟢](https://github.com/jliljebl/flowblade) Support by improving the project!
+* [OpenCut](https://opencut.app/) [🔴](https://github.com/OpenCut-app/OpenCut)
 * [OpenShot](https://www.openshot.org/) [🟢](https://github.com/OpenShot/openshot-qt) Support here: [Donate to primary dev](https://www.patreon.com/join/openshot)
 * [Cinelerra GG Infinity](https://www.cinelerra-gg.org/) [🟢](https://git.cinelerra-gg.org/git/?p=goodguy/cinelerra.git;a=summary) Support by [improving the project!](https://www.cinelerra-gg.org/get-involved/)
 * [LosslessCut](https://mifi.no/losslesscut/) [🟢](https://github.com/mifi/lossless-cut) Support here: [Donate to primary dev](https://github.com/sponsors/mifi)
 * [Pitivi](https://www.pitivi.org/) [🟢](https://gitlab.gnome.org/GNOME/pitivi) Support here: [Donate to Pitivi](https://liberapay.com/Pitivi/)
 * [Olive](https://www.olivevideoeditor.org/) [🟢](https://github.com/olive-editor/olive) Support here: [Donate to Olive](https://www.patreon.com/olivevideoeditor)
+
+* [Etro](https://etrojs.dev/) [🟢](https://github.com/etro-js/etro) Support by improving the project! (Seems to just be a library? Christ, I need to clean this list up...)
 
 ## Motion Graphics (examples: After Effects, Blackmagic Fusion, Autodesk Flame)
 * [Natron](https://natrongithub.github.io/) [🟢](https://github.com/NatronGitHub/Natron) Support by improving the project!
