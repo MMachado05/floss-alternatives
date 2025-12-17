@@ -224,6 +224,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Read-it-later (examples: Pocket, Instapaper)
 * [Slax](https://r.slax.com/en) [🟢](https://github.com/slax-lab/slax-reader) Support by improving the project!
+* [Reticule](https://codeberg.org/reeseovine/reticule) [🟢](https://codeberg.org/reeseovine/reticule) Support by improving the project!
 
 ## Baby Registries (examples: Amazon Baby Registry)
 * [Owlkins](https://owlkins.com/) [🟢](https://gitlab.com/owlkins/owlkins) Support by improving the project!
