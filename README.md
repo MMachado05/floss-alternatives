@@ -212,6 +212,12 @@ You can also click the circles to view the public source code repositories. In m
 # Quiz Game Creators (examples: Kahoot)
 * [Fuiz](https://fuiz.us/) [🟢](https://gitlab.com/opencode-mit/fuiz/website) Support here: [Donate to Beyond Expiry](https://opencollective.com/beyond-expiry)
 
+## Game voxel (examples: Minecraft)
+* [Luanti](https://www.luanti.org/en/) [🟢](https://github.com/luanti-org/luanti) Support here: [Donate to Beyond Expiry](https://www.luanti.org/en/donate/)
+
+## Game pixel art 2D (examples: Habbo)
+* [Open Hotel](https://client.openhotel.club/) [🟢](https://github.com/openhotel/openhotel)
+
 ## File Sharing (examples: Airdrop)
 * [KDE Connect](https://kdeconnect.kde.org/) [🟢](https://invent.kde.org/network/kdeconnect-kde) Support here: [Donate to KDE](https://kde.org/community/donations/)
 * [Zorin Connect](https://zorin.com/os/)<sup>[6]</sup> [🟢](https://github.com/ZorinOS?q=connect&type=all&language=&sort=) Support by improving the project!
@@ -269,6 +275,14 @@ You can also click the circles to view the public source code repositories. In m
 * [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) [🟢](https://github.com/LibreOffice/core/tree/master/sw) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
 * [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 * [Etherpad](https://etherpad.org/) [🟢](https://github.com/ether/etherpad-lite) Support here: [Donate to Etherpad](https://github.com/sponsors/ether)
+
+## Spreadsheets Editors (examples: Microsoft Excel, Google Sheets)
+* [LibreOffice Calc](https://www.libreoffice.org/discover/calc/) [🟢](https://github.com/LibreOffice/core/tree/master/sc) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
+* [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
+
+## Presentation Editors (examples: Microsoft PowerPoint, Google Slides)
+* [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) [🟢](https://github.com/LibreOffice/core/tree/master/sd) Support here: [Donate to LibreOffice](https://www.libreoffice.org/donate/)
+* [OnlyOffice](https://www.onlyoffice.com/) [🔴](https://github.com/ONLYOFFICE)
 
 ## Productivity & Task Management (examples: Notion, Trello, Asana)
 * [Zettlr](https://www.zettlr.com/) [🟢](https://github.com/Zettlr/Zettlr) Support here: [Zettlr Patreon](https://www.patreon.com/join/zettlr?redirect_uri=https%3A%2F%2Fwww.zettlr.com%2Fsupporters&utm_medium=widget)
