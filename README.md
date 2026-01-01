@@ -129,6 +129,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Motion Graphics (examples: After Effects, Blackmagic Fusion, Autodesk Flame)
 * [Natron](https://natrongithub.github.io/) [🟢](https://github.com/NatronGitHub/Natron) Support by improving the project!
+* [Friction](https://friction.graphics) [🟢](https://github.com/friction2d/friction) Support by improving the project!
 
 ## Maps and Navigation (examples: Google Maps, Apple Maps, Waze)
 * [OpenStreetMap](https://www.openstreetmap.org/)<sup>[27]</sup> [🟢](https://github.com/openstreetmap/) Support here: [Donate to OpenStreetMap Foundation](https://supporting.openstreetmap.org/donate/)
