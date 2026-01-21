@@ -401,6 +401,9 @@ TODO: I need to separate out clients that work with proprietary providers (Spotu
 ## Programming Exercises (examples: LeetCode)
 * [TechBlitz](https://techblitz.dev/) [🔴](https://github.com/techblitzdev/TechBlitz/)
 
+## File Sharing and Uploading (examples: WeTransfer, SendGB, Send Anywhere, Files.fm)
+* [Palmr](https://github.com/kyantech/Palmr) [🟢](https://github.com/kyantech/Palmr) Support here: [Donate to Kyantech](https://github.com/sponsors/kyantech)
+
 ## Habit Trackers (examples: Habitify, Streaks)
 * [OpenHabitTracker](https://openhabittracker.net/) [🟢](https://github.com/Jinjinov/OpenHabitTracker) Support by improving the project!
 * [Habitica](https://habitica.com/static/home) [🟢](https://github.com/HabitRPG) Support by improving the project! (or by buying gems, I'm getting more lax with how I log these)
