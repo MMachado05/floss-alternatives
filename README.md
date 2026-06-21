@@ -552,7 +552,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Timeful](https://timeful.app/) [🟢](https://github.com/schej-it/timeful.app) Support by improving the project!
 * [Crab Fit](https://crab.fit/) [🟢](https://github.com/GRA0007/crab.fit) Support here: [Donate to primary dev](https://ko-fi.com/benpai)
 
-## Game Engines (examples: Unity, Unreal Engine, RPGMaker)
+## Game Engines + Editors (examples: Unity, Unreal Engine, RPGMaker)
 * [Godot](https://godotengine.org/) [🟢](https://github.com/godotengine/godot) Support here: [Godot Development Fund](https://fund.godotengine.org/)
 * [Solarus](https://solarus-games.org/) [🟢](https://gitlab.com/solarus-games) Support here: [Donate to Solarus Labs](https://www.paypal.com/paypalme/solaruslabs)
 * [Gdevelop](https://gdevelop.io/) [🔴](https://github.com/4ian/GDevelop)
@@ -560,6 +560,10 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 * [Flax Engine](https://flaxengine.com/) [🔴](https://github.com/FlaxEngine/FlaxEngine)<sup>[24]</sup>
 * [Bevy](https://bevyengine.org/) [🟢](https://github.com/bevyengine/bevy) Support here: [Donate to Bevy Foundation](https://bevyengine.org/donate/)
 * [Defold](https://defold.com/) [🟢](https://github.com/defold/defold) Support here: [Donate to the Defold Foundation](https://github.com/sponsors/defold)
+
+## Android App Centers (examples: Google Play Store)
+* [F-Droid](https://f-droid.org/) [🟢](https://gitlab.com/fdroid?sort=stars_desc) Support here: [Donate to F-Droid](https://opencollective.com/f-droid/donate?interval=oneTime&amount=20&name=&legalName=&email=)
+* [Accrescent](https://accrescent.app/) [🟢](https://github.com/accrescent/accrescent) Support by improving the project!
 
 ## 3D Modeling and Animation (examples: Autodesk Maya, Womp)
 * [Blender](https://www.blender.org/) [🟢](https://github.com/blender/blender) Support here: [Blender Development Fund](https://fund.blender.org/?utm_medium=www-nav)
@@ -725,6 +729,7 @@ Todo: look into Nostr. Also, break this up into better use cases (maybe for the 
 * 💔 Aseprite (digital drawing [pixelart])
 * 💀 NoteKit (note-taking)
 * 💀 Ivy Wallet
+* 😶‍🌫️ Aurora Store
 
 ***
 
