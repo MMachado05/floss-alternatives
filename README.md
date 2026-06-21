@@ -593,6 +593,7 @@ Todo: separate this into a simple note-taking section, and a pdf-annotating sect
 
 ## Vector Graphics (examples: Adobe Illustrator)
 * [Inkscape](https://inkscape.org/) [🟢](https://gitlab.com/inkscape/inkscape) Support here: [Donate to The Inkscape Fund](https://inkscape.org/support-us/donate/)
+* [Graphite](https://www.graphite.art/) [🟢](https://github.com/GraphiteEditor/Graphite) Supportt here: [Donate to Graphite](https://www.graphite.art/donate/)
 
 ## Remote File Hosting/Cloud Hosting (examples: OneDrive, Google Drive, Dropbox)
 * [OpenCloud](https://opencloud.eu/en) [🟢](https://github.com/opencloud-eu) Support by improving the project!
