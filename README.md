@@ -250,6 +250,7 @@ You can also click the circles to view the public source code repositories. In m
 
 ## Newsletters and Email Marketing (examples: Intuit Mailchimp)
 * [Keila](https://www.keila.io/) [🟢](https://github.com/pentacent/keila) Support here: [Donate to Pentacent](https://github.com/sponsors/pentacent)
+* [Warmbly](https://warmbly.com/) [🔴](https://github.com/warmbly/warmbly)
 
 ## PDF Viewing/PDF Editing (examples: Adobe Acrobat)
 * Stirling PDF (TODO)
