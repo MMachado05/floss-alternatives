@@ -1,3 +1,7 @@
+# ⚠️ This repository has been archived in favor of one on Codeberg: https://codeberg.org/MoshiMotsu/floss-alternatives
+
+---
+
 # Opening software back up to the people, one install at a time!
 
 ### The actual list doesn't start until a little further down. I'm using the top of this list as a sort of "junk drawer" of projects, sources, etc. that align with my higher-level "goals" in creating this list, and that part is mostly for me! If you want to peruse, be my guest, but be warned that there is no organization to speak of whatsoever in this beginner section of the repo.
